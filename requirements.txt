@@ -1,0 +1,48 @@
+# Python for Data Science & Machine Learning — 40-Hour Training
+# Python 3.10 or 3.11
+#
+# Install:   pip install -r requirements.txt
+# Colab:     most of these are pre-installed; this file covers the rest
+
+# ---- Core numerical & data ----
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+statsmodels>=0.14
+
+# ---- Visualisation ----
+matplotlib>=3.8
+seaborn>=0.13
+
+# ---- Machine learning ----
+scikit-learn>=1.4
+xgboost>=2.0
+imbalanced-learn>=0.12
+
+# ---- Model interpretability (Module 9.7) ----
+shap>=0.44
+
+# ---- Hyperparameter tuning (Module 9.4) ----
+optuna>=3.5
+
+# ---- Data I/O ----
+openpyxl>=3.1
+pyarrow>=14.0
+
+# ---- Model persistence & serving (Module 9.6) ----
+joblib>=1.3
+fastapi>=0.109
+uvicorn>=0.27
+
+# ---- Code quality & testing (Module 2.7) ----
+pytest>=8.0
+black>=24.0
+flake8>=7.0
+
+# ---- Optional helpers ----
+ydata-profiling>=4.6
+category_encoders>=2.6
+
+# ---- Notebook environment ----
+jupyterlab>=4.0
+ipykernel>=6.29
