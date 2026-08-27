@@ -1,0 +1,1207 @@
+customer_id,gender,age,region,tenure_months,contract_type,payment_method,internet_service,customer_segment,monthly_charges,total_charges,usage_hours,support_tickets,satisfaction_score,churn
+CUST1101,Female,40.0,East,32,One-Year,Electronic Check,Fiber,Basic,52.72,1731.24,81.9,3,7.6,0
+CUST1260,Male,42.0,West,72,Two-Year,,Fiber,Premium,102.57,7379.27,96.0,2,7.4,0
+CUST1777,Male,48.0,West,6,Month-to-Month,,DSL,Standard,57.14,330.91,25.1,4,6.9,1
+CUST1109,Female,39.0,West,20,One-Year,Bank Transfer,Fiber,Standard,81.54,1678.72,53.5,3,7.8,0
+CUST1649,Male,54.0,East,10,Month-to-Month,UPI,Fiber,Basic,42.6,424.52,60.7,6,5.5,1
+CUST1735,Female,34.0,North,15,One-Year,Electronic Check,DSL,Premium,74.58,1141.62,12.1,0,7.1,0
+CUST1332,Female,28.0,East,68,One-Year,Credit Card,Fiber,Standard,84.21,5724.49,28.0,1,9.2,0
+CUST1049,Male,36.0,West,34,One-Year,UPI,DSL,Standard,58.77,2208.55,13.8,2,7.9,0
+CUST1461,Male,36.0,East,72,One-Year,Bank Transfer,DSL,Standard,61.96,4950.06,22.4,3,8.1,0
+CUST1980,Female,35.0,West,26,Month-to-Month,Bank Transfer,No Internet,Premium,76.57,1835.4,11.5,2,6.8,0
+CUST1453,Male,28.0,North,56,Month-to-Month,Credit Card,DSL,Basic,28.98,1621.85,39.5,1,10.0,0
+CUST1558,Female,53.0,West,8,Month-to-Month,Credit Card,Fiber,Premium,101.18,793.47,41.5,3,6.7,0
+CUST1155,Female,49.0,North,55,One-Year,Credit Card,Fiber,Basic,45.35,2529.5,29.7,2,10.0,0
+CUST1423,Male,44.0,North,72,Two-Year,UPI,Fiber,Premium,106.12,7577.53,77.5,2,9.1,0
+CUST1881,Female,31.0,North,7,Month-to-Month,Bank Transfer,Fiber,Standard,74.12,489.56,35.5,4,6.1,1
+CUST1078,Female,24.0,West,10,Month-to-Month,Electronic Check,Fiber,Basic,47.5,456.38,46.8,0,9.9,0
+CUST2140,Male,50.0,North,34,Two-Year,Electronic Check,DSL,Standard,72.32,2483.49,32.9,0,10.0,0
+CUST1208,Male,55.0,West,72,One-Year,UPI,DSL,Basic,41.42,3129.76,57.2,2,10.0,0
+CUST1292,Female,41.0,East,61,Two-Year,Credit Card,Fiber,Premium,98.52,6072.42,39.7,2,9.3,0
+CUST1976,Male,44.0,South,20,Month-to-Month,UPI,DSL,Premium,97.65,1977.82,21.3,2,10.0,0
+CUST1128,Male,49.0,North,5,Two-Year,Bank Transfer,DSL,Standard,67.68,338.73,8.5,6,6.7,0
+CUST2001,Male,29.0,West,19,Two-Year,UPI,DSL,Premium,103.55,2015.72,31.9,2,7.8,0
+CUST1732,Male,37.0,West,8,Month-to-Month,Electronic Check,DSL,Premium,80.8,654.7,19.0,1,10.0,0
+CUST1968,Female,33.0,South,7,Month-to-Month,Credit Card,Fiber,Standard,81.04,591.13,45.9,6,4.9,1
+CUST1918,Male,48.0,North,7,Month-to-Month,Bank Transfer,Fiber,Basic,54.13,,43.9,2,,0
+CUST2061,Female,38.0,West,39,One-Year,UPI,Fiber,Basic,65.35,2492.4,45.2,1,10.0,0
+CUST1174,Male,39.0,West,3,One-Year,Bank Transfer,DSL,Standard,77.84,220.25,40.0,5,5.7,0
+CUST2023,Female,18.0,North,23,Month-to-Month,UPI,Fiber,Standard,91.46,1940.63,87.0,6,4.8,1
+CUST1582,Male,51.0,North,25,Month-to-Month,Bank Transfer,DSL,Standard,53.99,1356.05,49.3,2,5.9,0
+CUST2007,Male,48.0,South,16,Month-to-Month,,DSL,Basic,31.49,523.1,110.5,1,9.2,1
+CUST1671,Female,52.0,South,72,Two-Year,Credit Card,Fiber,Basic,57.51,4250.1,100.9,4,7.9,0
+CUST1888,Male,38.0,East,18,Month-to-Month,Electronic Check,DSL,Standard,59.59,1071.68,13.8,0,8.0,0
+CUST2074,Female,34.0,West,64,One-Year,Bank Transfer,Fiber,Premium,107.49,7088.47,61.7,3,5.6,0
+CUST2198,Male,33.0,North,45,Two-Year,UPI,DSL,Standard,53.45,2374.47,57.7,1,10.0,0
+CUST1678,Male,38.0,South,6,One-Year,Electronic Check,DSL,Basic,37.74,224.39,30.7,6,4.4,1
+CUST2197,Female,25.0,North,32,Two-Year,Credit Card,DSL,Premium,91.35,2803.65,17.8,2,8.3,0
+CUST1371,Male,24.0,East,72,One-Year,Electronic Check,DSL,Basic,46.86,3267.77,8.4,2,10.0,1
+CUST1044,Female,18.0,South,3,Month-to-Month,Electronic Check,Fiber,Standard,73.22,233.73,49.6,6,8.7,0
+CUST1442,Female,47.0,South,1,Month-to-Month,Electronic Check,Fiber,Premium,101.03,101.32,62.8,4,8.7,1
+CUST1578,Female,22.0,South,33,One-Year,Bank Transfer,Fiber,Premium,97.53,3212.28,37.4,2,8.7,0
+CUST1270,Male,46.0,West,10,One-Year,Credit Card,Fiber,Standard,74.38,791.41,39.6,1,6.7,0
+CUST1478,Female,18.0,West,18,One-Year,Electronic Check,Fiber,Basic,50.47,864.92,32.2,2,9.4,1
+CUST1996,Female,31.0,North,1,Month-to-Month,Credit Card,DSL,Standard,62.11,60.44,34.5,3,5.1,1
+CUST1158,Female,45.0,East,50,Month-to-Month,UPI,Fiber,Basic,46.76,2228.88,66.3,2,9.0,0
+CUST1802,Female,41.0,West,72,Two-Year,Electronic Check,No Internet,Standard,42.12,,26.4,2,7.4,0
+CUST1076,Male,46.0,North,15,Month-to-Month,Electronic Check,Fiber,Standard,80.67,1185.18,41.4,2,6.2,1
+CUST1394,Male,31.0,West,51,Two-Year,Electronic Check,No Internet,Standard,43.8,2175.94,11.3,0,10.0,0
+CUST1070,Male,34.0,West,6,Month-to-Month,Credit Card,Fiber,Premium,105.26,581.28,49.0,6,4.7,1
+CUST1464,Female,54.0,West,14,Month-to-Month,Electronic Check,Fiber,Standard,81.1,1142.98,44.0,2,6.5,0
+CUST1344,Female,47.0,South,9,Month-to-Month,Electronic Check,Fiber,Basic,46.99,454.64,46.6,2,9.4,1
+CUST1168,Male,27.0,North,72,One-Year,Bank Transfer,Fiber,Basic,48.7,3395.63,34.5,5,6.9,0
+CUST1572,Male,24.0,East,7,Month-to-Month,UPI,Fiber,Standard,92.3,612.83,,7,4.1,1
+CUST1286,Male,37.0,West,8,Month-to-Month,UPI,DSL,Standard,65.38,568.63,51.9,2,8.7,0
+CUST1887,Male,49.0,South,13,Month-to-Month,Electronic Check,Fiber,Basic,56.64,735.0,31.7,3,8.6,1
+CUST1529,Male,43.0,South,31,One-Year,,Fiber,Basic,51.85,1667.19,40.3,2,7.5,1
+CUST1435,Male,33.0,South,3,One-Year,Credit Card,DSL,Basic,18.42,55.84,14.9,1,10.0,0
+CUST1023,Female,48.0,East,35,Month-to-Month,UPI,DSL,Premium,72.88,2664.68,13.2,1,9.0,0
+CUST1523,Female,45.0,East,4,One-Year,Credit Card,Fiber,Basic,62.16,256.68,28.1,5,5.0,0
+CUST1522,Male,62.0,East,11,Month-to-Month,UPI,DSL,Basic,33.59,324.62,27.6,2,8.3,1
+CUST1123,Male,62.0,West,18,One-Year,Credit Card,DSL,Basic,30.69,542.75,24.5,2,9.6,0
+CUST1043,Male,53.0,North,20,One-Year,Electronic Check,Fiber,Premium,109.04,2415.69,62.8,2,7.3,0
+CUST1058,Male,55.0,South,7,Month-to-Month,UPI,Fiber,Premium,109.25,806.95,35.9,3,5.1,0
+CUST1231,Male,42.0,East,15,Month-to-Month,Bank Transfer,DSL,Standard,53.81,720.18,48.3,2,6.5,0
+CUST1832,Male,31.0,South,15,Month-to-Month,UPI,Fiber,Basic,52.13,794.41,91.2,0,,1
+CUST1617,Male,36.0,South,11,Month-to-Month,Electronic Check,No Internet,Premium,73.78,837.37,1.7,0,8.8,0
+CUST1551,Male,41.0,North,16,One-Year,Credit Card,DSL,Basic,35.77,592.77,29.9,4,7.9,0
+CUST1497,Female,18.0,West,51,Month-to-Month,Bank Transfer,Fiber,Standard,75.02,3790.81,36.7,1,10.0,0
+CUST2000,Male,35.0,North,18,Month-to-Month,Bank Transfer,Fiber,Standard,79.97,1354.85,43.4,4,9.1,1
+CUST1233,Female,63.0,North,24,One-Year,Credit Card,DSL,Basic,45.87,1125.96,36.7,2,10.0,0
+CUST1736,Male,18.0,South,20,Two-Year,Electronic Check,Fiber,Basic,49.64,1071.17,67.3,1,7.0,0
+CUST1218,Female,29.0,West,9,Two-Year,Bank Transfer,DSL,Basic,32.03,281.64,29.0,2,7.4,0
+CUST1333,Female,43.0,East,30,Month-to-Month,Electronic Check,DSL,Standard,73.5,2100.18,61.7,6,4.9,1
+CUST1113,Female,31.0,North,1,Month-to-Month,Bank Transfer,No Internet,Premium,67.26,66.62,12.4,3,9.1,1
+CUST2152,Male,25.0,North,10,Month-to-Month,Credit Card,Fiber,Premium,101.8,1025.38,30.3,1,10.0,0
+CUST1812,Female,26.0,North,45,One-Year,Bank Transfer,Fiber,Basic,48.44,2148.36,35.4,2,8.6,0
+CUST1051,Male,56.0,North,28,One-Year,Electronic Check,DSL,Standard,58.71,1606.49,15.7,0,8.2,0
+CUST1479,Male,34.0,South,35,Month-to-Month,Credit Card,DSL,Basic,41.7,1546.97,25.8,2,8.8,0
+CUST1352,Female,32.0,South,17,Two-Year,UPI,DSL,Standard,52.3,852.43,36.4,2,8.7,0
+CUST1410,Female,51.0,North,6,Month-to-Month,Electronic Check,Fiber,Basic,44.18,273.82,54.3,4,6.7,0
+CUST1247,Male,48.0,South,20,One-Year,Bank Transfer,DSL,Premium,78.03,1530.32,39.0,0,,0
+CUST1755,Male,40.0,West,9,Month-to-Month,Bank Transfer,DSL,Basic,40.65,326.68,42.6,1,8.6,1
+CUST1424,Female,57.0,South,72,Two-Year,Bank Transfer,DSL,Basic,33.95,2339.61,28.1,2,,0
+CUST1420,Female,27.0,North,53,Month-to-Month,,Fiber,Basic,46.47,2528.64,48.0,4,,1
+CUST1380,Female,29.0,West,67,Month-to-Month,Electronic Check,DSL,Standard,70.79,4763.27,43.4,2,8.6,0
+CUST1054,Female,37.0,North,31,One-Year,Electronic Check,Fiber,Basic,53.81,1597.39,33.4,2,10.0,0
+CUST1959,Female,41.0,North,57,One-Year,Bank Transfer,Fiber,Premium,103.6,6798.85,56.1,0,7.1,0
+CUST1722,Male,38.0,South,18,Month-to-Month,Bank Transfer,Fiber,Standard,69.46,1318.44,41.7,4,5.6,0
+CUST1873,Male,24.0,West,7,One-Year,Electronic Check,DSL,Basic,41.32,322.68,17.8,6,6.5,1
+CUST1056,Male,45.0,East,11,One-Year,Electronic Check,DSL,Basic,43.72,468.85,23.5,1,10.0,0
+CUST1086,Female,48.0,South,27,One-Year,Credit Card,Fiber,Standard,78.33,2100.03,26.2,2,5.6,0
+CUST1652,Female,24.0,South,33,One-Year,Electronic Check,DSL,Standard,54.61,1846.76,56.2,0,8.4,0
+CUST1830,Female,19.0,North,26,Month-to-Month,Electronic Check,Fiber,Standard,73.76,1840.31,77.9,2,7.7,0
+CUST1358,Male,31.0,East,29,One-Year,,Fiber,Standard,75.37,2195.06,76.9,3,8.0,0
+CUST2168,Female,63.0,South,55,Two-Year,Electronic Check,DSL,Standard,67.66,3854.02,51.7,3,7.8,0
+CUST1184,Female,51.0,West,25,Month-to-Month,Credit Card,Fiber,Basic,57.64,1474.07,54.9,4,8.5,0
+CUST1774,Male,29.0,North,7,One-Year,Bank Transfer,Fiber,Standard,68.99,504.33,41.2,5,5.4,1
+CUST1274,Female,38.0,South,15,One-Year,UPI,No Internet,Basic,33.88,515.41,5.4,1,9.4,0
+CUST1289,Male,41.0,South,60,Month-to-Month,Electronic Check,Fiber,Premium,105.15,6341.45,26.3,4,8.3,0
+CUST1240,Female,36.0,North,32,One-Year,Bank Transfer,Fiber,Standard,73.7,2314.94,55.5,1,8.1,0
+CUST1548,Female,49.0,South,44,Two-Year,Credit Card,DSL,Standard,57.59,2761.3,27.1,2,7.7,0
+CUST1198,Male,40.0,East,24,Two-Year,Credit Card,Fiber,Standard,79.96,1723.92,38.0,6,6.6,1
+CUST1594,Male,52.0,West,45,One-Year,Electronic Check,Fiber,Premium,101.45,4697.31,64.5,3,8.3,0
+CUST2003,Male,53.0,North,52,Two-Year,Bank Transfer,DSL,Standard,42.88,2049.54,36.7,2,8.5,0
+CUST1519,Female,36.0,West,46,One-Year,Credit Card,Fiber,Basic,60.53,2736.5,21.3,5,7.6,0
+CUST1859,Female,42.0,North,16,Month-to-Month,UPI,DSL,Basic,39.86,625.94,43.4,2,9.2,0
+CUST1367,Female,25.0,North,9,One-Year,Electronic Check,DSL,Basic,36.81,328.45,53.9,2,8.1,0
+CUST1839,Female,28.0,East,57,Month-to-Month,Electronic Check,DSL,Premium,109.37,6157.0,36.7,2,9.8,0
+CUST1737,Male,43.0,East,16,Month-to-Month,Electronic Check,DSL,Standard,69.4,1095.3,26.8,2,8.6,0
+CUST2060,Female,25.0,East,6,Month-to-Month,Bank Transfer,DSL,Basic,35.83,211.57,25.3,3,9.9,0
+CUST1819,Male,39.0,South,20,Month-to-Month,Credit Card,Fiber,Premium,97.56,1926.69,53.0,6,3.2,0
+CUST1953,Male,63.0,West,18,Month-to-Month,Bank Transfer,DSL,Standard,57.07,1022.26,20.8,2,6.4,1
+CUST2027,Male,46.0,North,6,Two-Year,Credit Card,Fiber,Basic,51.88,317.55,33.7,3,7.9,0
+CUST1298,Female,26.0,South,19,Month-to-Month,Electronic Check,DSL,Basic,43.44,,21.9,0,7.5,0
+CUST2084,Female,54.0,North,13,One-Year,UPI,DSL,Standard,63.25,798.3,37.1,1,9.2,0
+CUST1107,Male,41.0,East,72,Two-Year,Bank Transfer,Fiber,Basic,44.59,3210.88,65.3,3,8.7,0
+CUST1199,Male,48.0,South,14,Two-Year,Electronic Check,,Premium,85.05,1205.97,40.5,0,10.0,0
+CUST1803,Female,50.0,East,60,One-Year,Electronic Check,No Internet,Basic,35.69,2117.98,32.5,0,10.0,0
+CUST1745,Male,44.0,West,29,One-Year,UPI,Fiber,Basic,47.4,1536.81,48.6,1,7.4,0
+CUST1620,Female,30.0,West,31,Month-to-Month,Electronic Check,,Premium,100.46,3057.77,56.9,6,,0
+CUST1275,Male,42.0,South,6,Month-to-Month,Credit Card,Fiber,Standard,68.54,395.36,23.9,5,6.9,0
+CUST2183,Male,26.0,North,55,One-Year,Bank Transfer,Fiber,Basic,63.4,3885.91,60.4,4,4.5,0
+CUST1545,Male,57.0,East,16,Month-to-Month,Electronic Check,Fiber,Premium,103.34,1703.03,54.4,2,7.0,0
+CUST1081,Male,39.0,South,9,Month-to-Month,,DSL,Basic,48.09,413.33,44.2,2,8.9,0
+CUST1428,Male,27.0,North,55,Two-Year,Credit Card,Fiber,Standard,91.72,5300.4,42.1,3,9.7,0
+CUST1858,Male,52.0,North,7,One-Year,Electronic Check,Fiber,Basic,65.14,412.99,30.8,4,8.1,1
+CUST2048,Female,50.0,South,31,Month-to-Month,Electronic Check,Fiber,Standard,90.16,2992.94,55.0,4,6.3,1
+CUST1986,Male,19.0,West,15,One-Year,Credit Card,DSL,Standard,60.89,829.47,16.2,3,6.6,0
+CUST1542,Female,22.0,North,72,Two-Year,Electronic Check,DSL,Premium,92.31,6702.06,23.9,0,10.0,0
+CUST1718,Female,48.0,East,32,Month-to-Month,UPI,Fiber,Standard,68.48,2238.09,93.2,2,8.0,1
+CUST1411,Female,28.0,West,26,Two-Year,Electronic Check,Fiber,Standard,73.06,1816.55,56.3,3,6.9,0
+CUST1265,Male,33.0,East,20,Two-Year,Electronic Check,DSL,Premium,84.23,1731.35,30.9,2,,0
+CUST1147,Female,39.0,South,14,Month-to-Month,UPI,DSL,Basic,52.88,692.46,27.5,0,8.2,1
+CUST1807,Male,68.0,North,16,Month-to-Month,Credit Card,DSL,Premium,84.92,1363.69,73.9,3,7.9,0
+CUST1210,Female,32.0,West,34,Two-Year,Credit Card,Fiber,Basic,61.29,1950.89,38.4,1,8.9,0
+CUST1711,Female,61.0,North,12,Month-to-Month,Bank Transfer,DSL,Premium,103.32,1197.55,75.1,1,7.9,1
+CUST1904,Female,31.0,East,15,One-Year,Electronic Check,DSL,Standard,66.9,986.86,16.6,1,10.0,1
+CUST1526,Female,47.0,South,22,One-Year,Credit Card,DSL,Basic,30.57,629.27,18.7,1,10.0,0
+CUST1842,Female,40.0,East,56,Two-Year,UPI,DSL,Standard,65.59,3749.47,50.0,1,8.0,0
+CUST1924,Male,42.0,South,70,One-Year,Bank Transfer,DSL,Basic,37.57,2561.43,13.7,2,10.0,0
+CUST1425,Female,56.0,East,10,One-Year,UPI,Fiber,Basic,56.85,578.03,50.7,0,8.4,0
+CUST1710,Female,28.0,North,7,Month-to-Month,Credit Card,Fiber,Basic,51.99,350.52,36.7,2,9.2,0
+CUST1998,Female,22.0,North,72,One-Year,Credit Card,,Premium,95.01,6646.69,36.7,3,9.2,0
+CUST2146,Female,36.0,West,14,Month-to-Month,Credit Card,Fiber,Basic,41.92,576.3,51.9,3,8.7,0
+CUST2192,Female,46.0,South,35,Two-Year,Electronic Check,No Internet,Standard,53.87,1947.05,24.5,1,6.5,0
+CUST1362,Male,39.0,West,32,Month-to-Month,Bank Transfer,Fiber,Standard,78.9,2751.91,46.4,4,8.6,0
+CUST1936,Female,38.0,South,12,One-Year,Bank Transfer,DSL,Premium,93.97,1094.15,38.7,1,10.0,0
+CUST1323,Female,58.0,East,7,Month-to-Month,UPI,DSL,Basic,51.38,350.21,11.6,4,5.7,0
+CUST1644,Female,32.0,North,46,One-Year,Bank Transfer,No Internet,Standard,47.77,2065.34,13.1,1,,0
+CUST1985,Female,39.0,North,5,One-Year,Bank Transfer,DSL,Standard,55.69,289.37,40.8,3,,1
+CUST1135,Male,43.0,West,3,One-Year,UPI,Fiber,Basic,60.52,174.15,32.3,3,6.6,0
+CUST1629,Female,41.0,South,22,Month-to-Month,Electronic Check,DSL,Standard,68.5,1558.19,58.5,0,8.1,0
+CUST1843,Male,39.0,West,42,Month-to-Month,UPI,Fiber,Basic,48.46,2038.14,25.1,1,9.5,0
+CUST1485,Male,31.0,North,27,Month-to-Month,UPI,Fiber,Premium,106.75,2763.46,69.1,0,10.0,1
+CUST1140,Male,45.0,North,8,Month-to-Month,Electronic Check,DSL,Basic,31.55,263.99,36.1,0,,0
+CUST1605,Female,39.0,East,18,One-Year,Bank Transfer,DSL,Basic,24.9,419.48,27.2,1,10.0,0
+CUST1342,Female,42.0,South,18,Month-to-Month,Electronic Check,Fiber,Premium,102.73,1904.01,38.7,5,7.6,1
+CUST1588,Male,36.0,West,54,Month-to-Month,Electronic Check,Fiber,Premium,107.26,6138.73,28.9,0,8.9,0
+CUST1634,Male,36.0,North,25,Two-Year,Electronic Check,DSL,Premium,89.15,2261.76,10.7,2,8.1,1
+CUST2137,Male,34.0,South,25,One-Year,Electronic Check,Fiber,Basic,53.05,1302.79,21.7,3,7.4,0
+CUST1209,Male,26.0,East,8,Month-to-Month,Bank Transfer,Fiber,Premium,112.98,910.64,27.5,3,7.6,1
+CUST1430,Female,21.0,South,7,Month-to-Month,Credit Card,DSL,Standard,65.42,452.72,60.1,2,6.6,1
+CUST1467,Female,24.0,North,60,One-Year,Bank Transfer,DSL,Standard,62.15,3763.43,28.0,2,9.8,0
+CUST1331,Male,44.0,North,19,Month-to-Month,Bank Transfer,Fiber,Premium,87.51,1524.47,52.2,0,10.0,0
+CUST1170,Male,28.0,North,23,Month-to-Month,UPI,DSL,Premium,91.68,2111.64,59.1,2,9.0,1
+CUST2037,Male,36.0,South,11,Month-to-Month,Bank Transfer,DSL,Standard,64.03,749.34,31.8,0,7.7,1
+CUST1590,Female,34.0,East,72,One-Year,Electronic Check,DSL,Basic,34.11,2349.38,42.8,0,10.0,0
+CUST1538,Male,33.0,South,13,Month-to-Month,Bank Transfer,DSL,Standard,72.95,988.59,11.1,2,8.6,1
+CUST2031,Female,37.0,East,31,One-Year,Credit Card,Fiber,Basic,59.7,2025.79,65.2,1,10.0,0
+CUST1163,Male,33.0,North,3,Month-to-Month,Electronic Check,Fiber,Standard,73.06,203.97,102.0,2,8.0,0
+CUST1405,Female,39.0,North,39,Month-to-Month,Electronic Check,Fiber,Standard,75.96,3144.92,32.4,2,8.1,0
+CUST1940,Male,27.0,West,40,Month-to-Month,Electronic Check,DSL,Standard,56.6,2365.34,19.4,2,9.5,0
+CUST1156,Male,42.0,South,20,Month-to-Month,Electronic Check,DSL,Standard,60.33,1198.82,58.3,0,9.7,0
+CUST1314,Male,28.0,West,19,Two-Year,Credit Card,Fiber,Standard,72.51,,67.9,1,9.0,0
+CUST1433,Female,60.0,East,22,Two-Year,Credit Card,Fiber,Premium,114.8,2686.33,75.1,2,6.5,0
+CUST2117,Female,48.0,East,36,Month-to-Month,Bank Transfer,DSL,Standard,54.62,1948.73,21.6,1,8.6,1
+CUST1944,Male,49.0,South,18,Month-to-Month,Credit Card,DSL,Basic,45.55,754.01,52.6,0,8.7,0
+CUST1875,Female,38.0,South,72,Two-Year,Bank Transfer,No Internet,Standard,49.41,3404.61,43.8,1,7.4,0
+CUST1925,Male,36.0,South,12,Two-Year,Credit Card,No Internet,Basic,29.99,365.84,27.1,2,9.8,0
+CUST1898,Male,56.0,North,7,Month-to-Month,UPI,DSL,Standard,57.19,,15.1,1,,1
+CUST1196,Female,30.0,South,9,Month-to-Month,Bank Transfer,Fiber,Premium,100.44,894.74,40.2,6,5.4,1
+CUST1192,Male,22.0,North,17,One-Year,Electronic Check,DSL,Basic,33.53,583.9,95.1,1,8.6,0
+CUST1693,Male,58.0,North,14,Two-Year,Bank Transfer,Fiber,Premium,104.28,1466.71,33.0,0,10.0,0
+CUST1700,Male,18.0,East,9,Two-Year,Credit Card,Fiber,Basic,47.84,439.45,35.3,8,4.4,0
+CUST1429,Female,51.0,South,11,One-Year,UPI,Fiber,Basic,61.47,679.52,59.0,1,7.5,0
+CUST1327,Female,59.0,South,26,Month-to-Month,UPI,Fiber,Standard,69.94,1839.84,46.0,3,7.5,0
+CUST1965,Male,40.0,North,4,Month-to-Month,Bank Transfer,Fiber,Standard,67.16,251.02,44.4,1,7.4,0
+CUST1243,Female,34.0,North,55,Two-Year,,Fiber,Premium,97.57,5030.34,46.6,5,5.2,0
+CUST1829,Male,69.0,East,7,Month-to-Month,Electronic Check,Fiber,Standard,70.57,487.84,43.6,1,10.0,0
+CUST1977,Male,45.0,West,4,Two-Year,Electronic Check,DSL,Basic,42.07,,13.1,4,7.0,1
+CUST1096,Male,23.0,North,55,One-Year,Electronic Check,Fiber,Basic,55.05,2957.67,,3,6.4,0
+CUST2080,Male,58.0,South,21,Month-to-Month,UPI,Fiber,Premium,95.52,1940.04,75.5,4,6.4,0
+CUST1826,Female,49.0,West,6,One-Year,Electronic Check,DSL,Basic,31.32,183.12,55.5,5,5.7,0
+CUST1178,Female,51.0,East,10,Month-to-Month,Bank Transfer,DSL,Basic,47.4,472.73,30.4,4,7.5,1
+CUST1031,Female,53.0,East,66,One-Year,UPI,Fiber,Standard,73.71,4773.28,38.1,4,7.6,0
+CUST1867,Female,41.0,West,37,One-Year,Bank Transfer,No Internet,Basic,31.52,1175.85,1.5,3,10.0,0
+CUST1862,Female,22.0,South,54,Month-to-Month,Electronic Check,DSL,Basic,39.32,2114.05,23.3,1,8.0,0
+CUST1447,Female,44.0,West,25,Month-to-Month,Electronic Check,Fiber,Standard,71.9,1585.76,44.6,4,8.0,0
+CUST1743,Male,,North,12,Month-to-Month,Electronic Check,DSL,Basic,43.15,553.54,30.4,3,8.0,0
+CUST1573,Female,41.0,West,72,Two-Year,Electronic Check,DSL,Standard,60.89,4370.55,30.8,2,9.8,0
+CUST1319,Female,38.0,North,16,One-Year,Credit Card,DSL,Standard,63.49,1054.99,85.1,1,8.5,0
+CUST1631,Female,49.0,West,10,Month-to-Month,Electronic Check,Fiber,Basic,60.28,639.37,25.9,3,7.9,1
+CUST1310,Male,67.0,North,27,Two-Year,,Fiber,Basic,59.92,1572.8,32.8,1,9.0,0
+CUST1088,Male,54.0,South,13,Month-to-Month,Bank Transfer,Fiber,Basic,46.13,587.02,64.2,3,8.2,1
+CUST1834,Female,41.0,North,5,Month-to-Month,Credit Card,Fiber,Standard,80.56,393.5,48.0,4,5.6,0
+CUST1917,Male,40.0,North,36,Month-to-Month,Electronic Check,,Standard,45.84,1556.19,21.9,2,6.9,0
+CUST1557,Male,55.0,West,7,Month-to-Month,Electronic Check,Fiber,Basic,49.83,341.24,44.4,4,7.6,1
+CUST1321,Male,48.0,South,10,Two-Year,UPI,Fiber,Basic,52.7,530.53,48.8,1,10.0,0
+CUST1683,Male,64.0,East,62,One-Year,Electronic Check,Fiber,Premium,116.39,7502.57,50.2,1,7.4,0
+CUST1894,Female,43.0,West,18,Month-to-Month,Electronic Check,DSL,Basic,33.75,640.44,52.4,0,8.6,0
+CUST1398,Male,39.0,West,31,One-Year,Credit Card,DSL,Standard,62.16,1935.9,20.9,1,8.9,0
+CUST1622,Female,57.0,South,7,Month-to-Month,Credit Card,DSL,Basic,41.58,295.37,21.1,2,8.9,0
+CUST1458,Female,39.0,South,8,One-Year,Credit Card,Fiber,Standard,89.88,721.22,39.6,3,,0
+CUST1451,Female,57.0,North,15,Month-to-Month,Bank Transfer,Fiber,Basic,51.39,801.33,64.9,1,8.4,0
+CUST1220,Male,18.0,East,31,Two-Year,Bank Transfer,No Internet,Standard,50.44,,15.5,0,10.0,0
+CUST1350,Female,30.0,North,20,Month-to-Month,Credit Card,DSL,Standard,67.5,1438.1,54.9,0,9.2,0
+CUST1679,Male,18.0,East,9,Month-to-Month,Bank Transfer,No Internet,Standard,65.63,611.85,11.8,1,8.3,0
+CUST1010,Male,36.0,East,15,One-Year,Bank Transfer,DSL,Standard,46.75,743.3,20.2,4,7.3,0
+CUST1811,Male,56.0,South,17,One-Year,Electronic Check,DSL,Basic,33.96,544.43,20.8,0,8.7,0
+CUST2122,Female,39.0,South,25,Month-to-Month,,DSL,Premium,86.18,2187.43,63.8,1,8.1,0
+CUST1701,Male,37.0,North,7,Month-to-Month,Bank Transfer,DSL,Standard,62.8,458.62,32.1,0,,0
+CUST1059,Male,39.0,West,17,One-Year,Electronic Check,Fiber,Premium,116.88,1907.08,62.9,2,6.8,0
+CUST1695,Female,40.0,North,13,Month-to-Month,Credit Card,Fiber,Basic,42.5,564.34,46.3,2,7.2,0
+CUST1063,Female,32.0,West,72,One-Year,Bank Transfer,DSL,Standard,69.96,5117.42,29.4,1,9.3,0
+CUST1290,Female,43.0,North,72,Two-Year,Electronic Check,Fiber,Standard,79.8,5683.0,31.4,0,10.0,0
+CUST1266,Male,55.0,South,32,Two-Year,Credit Card,DSL,Basic,47.67,1434.91,38.5,2,9.3,0
+CUST1707,Female,37.0,North,26,One-Year,Credit Card,Fiber,Standard,74.61,1830.83,91.6,4,6.7,0
+CUST1665,Female,44.0,West,3,Month-to-Month,Credit Card,DSL,Standard,66.25,192.51,24.3,4,7.4,1
+CUST2052,Male,30.0,South,12,Month-to-Month,Electronic Check,Fiber,Basic,61.88,720.29,34.0,1,10.0,1
+CUST1294,Female,39.0,South,72,Two-Year,UPI,No Internet,Basic,26.59,1900.55,24.5,1,9.5,0
+CUST1244,Female,49.0,North,2,Month-to-Month,UPI,Fiber,Basic,52.13,101.84,39.7,5,8.1,1
+CUST1796,Male,59.0,South,24,One-Year,Electronic Check,No Internet,Standard,52.55,1204.87,34.9,2,10.0,0
+CUST1584,Female,26.0,North,10,Month-to-Month,UPI,Fiber,Standard,92.17,930.0,56.1,3,8.1,0
+CUST2046,Male,59.0,North,72,One-Year,UPI,No Internet,Basic,22.06,1537.82,35.1,0,10.0,0
+CUST1589,Male,56.0,North,15,One-Year,Credit Card,No Internet,Standard,38.4,569.44,17.9,3,8.1,0
+CUST2128,Female,39.0,East,72,Two-Year,Bank Transfer,DSL,Premium,84.5,6210.11,23.1,1,10.0,0
+CUST1946,Female,62.0,North,72,One-Year,UPI,,Standard,64.84,5012.55,39.7,1,10.0,0
+CUST1432,Female,45.0,East,7,Month-to-Month,Bank Transfer,Fiber,Basic,51.82,329.44,34.7,2,9.0,0
+CUST1909,Male,53.0,North,19,Month-to-Month,Electronic Check,DSL,Basic,45.12,779.32,90.4,1,10.0,0
+CUST1296,Female,37.0,West,72,Two-Year,Electronic Check,DSL,Premium,87.73,6350.67,11.5,2,8.9,0
+CUST1409,Female,60.0,South,7,Month-to-Month,Bank Transfer,Fiber,Basic,55.9,376.32,53.8,5,5.9,0
+CUST1941,Female,60.0,South,8,Two-Year,Electronic Check,DSL,Standard,66.07,530.54,73.2,0,7.8,0
+CUST1847,Female,55.0,South,48,Two-Year,Credit Card,Fiber,Standard,79.41,3773.77,64.2,0,9.5,0
+CUST2136,Male,38.0,West,20,Month-to-Month,Bank Transfer,Fiber,Basic,57.7,1175.29,33.0,3,8.4,0
+CUST1566,Female,67.0,West,16,Month-to-Month,Electronic Check,Fiber,Standard,67.0,1070.78,52.2,5,10.0,0
+CUST1277,Male,43.0,West,9,Two-Year,UPI,Fiber,Standard,85.55,756.69,35.3,2,7.7,0
+CUST1801,Male,27.0,South,45,Two-Year,Bank Transfer,Fiber,Standard,60.95,2595.41,55.0,3,9.8,0
+CUST1907,Male,34.0,West,20,Month-to-Month,Electronic Check,DSL,Premium,95.15,1913.26,19.7,1,8.5,1
+CUST1382,Female,37.0,South,72,One-Year,Bank Transfer,Fiber,Standard,70.89,5136.87,134.5,2,8.4,0
+CUST1309,Male,36.0,East,57,One-Year,UPI,DSL,Standard,63.52,3547.11,24.7,1,,0
+CUST1527,Female,45.0,West,17,One-Year,Credit Card,No Internet,Basic,27.8,465.14,40.4,1,9.6,0
+CUST1533,Female,38.0,North,28,Two-Year,Credit Card,,Basic,59.74,1620.08,25.3,2,,0
+CUST1083,Male,46.0,East,5,Month-to-Month,Credit Card,Fiber,Basic,47.24,239.29,40.8,3,8.2,0
+CUST1541,Female,35.0,North,38,Month-to-Month,Credit Card,Fiber,Basic,47.89,1760.85,58.3,2,7.5,0
+CUST1628,Female,21.0,West,32,One-Year,,No Internet,Basic,15.0,497.61,3.5,2,10.0,0
+CUST1614,Male,50.0,West,9,Month-to-Month,Credit Card,DSL,Premium,92.31,792.03,60.0,0,9.0,0
+CUST1129,Female,57.0,North,14,One-Year,Bank Transfer,Fiber,Basic,56.44,796.45,41.1,2,6.9,0
+CUST1906,Male,64.0,East,10,Month-to-Month,Credit Card,No Internet,Standard,52.78,524.62,14.6,0,9.4,0
+CUST1438,Female,39.0,North,50,Month-to-Month,Credit Card,Fiber,Premium,106.4,5669.49,57.3,3,7.5,0
+CUST1549,Male,34.0,South,72,Two-Year,Credit Card,Fiber,Basic,57.02,,57.3,2,8.8,0
+CUST1818,Female,18.0,East,24,Month-to-Month,Electronic Check,DSL,Basic,44.06,1007.27,33.9,0,10.0,0
+CUST1884,Male,23.0,East,11,Month-to-Month,UPI,Fiber,Premium,111.59,1231.51,46.0,5,4.2,1
+CUST2150,Male,40.0,North,72,Two-Year,Electronic Check,Fiber,Standard,72.9,5334.59,46.2,4,9.8,0
+CUST1138,Female,44.0,West,7,Month-to-Month,Bank Transfer,DSL,Basic,43.45,276.98,44.4,5,5.4,1
+CUST1931,Male,36.0,East,6,Month-to-Month,Electronic Check,No Internet,Standard,52.15,309.71,11.6,4,3.8,0
+CUST1141,Male,41.0,West,4,Month-to-Month,Electronic Check,Fiber,Basic,57.5,247.48,50.0,6,3.9,1
+CUST1552,Male,38.0,West,16,Month-to-Month,Credit Card,DSL,Premium,81.94,1260.44,66.9,5,6.9,1
+CUST1626,Female,18.0,South,20,Month-to-Month,Bank Transfer,No Internet,Standard,37.07,716.75,17.9,3,10.0,0
+CUST2099,Male,34.0,East,72,Two-Year,Bank Transfer,Fiber,Basic,55.74,3701.54,34.8,0,10.0,0
+CUST1139,Male,36.0,South,3,Month-to-Month,Credit Card,Fiber,Standard,75.56,206.5,30.6,5,7.4,0
+CUST1618,Male,52.0,South,2,Month-to-Month,UPI,Fiber,Basic,52.43,104.64,54.2,3,7.0,0
+CUST1844,Male,31.0,West,32,Month-to-Month,Electronic Check,DSL,Standard,66.12,2252.97,33.3,1,,0
+CUST1224,Male,47.0,South,49,One-Year,Bank Transfer,DSL,Standard,77.35,3612.96,60.7,0,6.6,0
+CUST1723,Female,52.0,South,37,Month-to-Month,Electronic Check,DSL,Basic,40.68,1510.23,56.7,1,10.0,0
+CUST1306,Male,56.0,East,6,Two-Year,UPI,Fiber,Standard,77.29,462.41,44.0,7,6.6,0
+CUST2013,Female,39.0,South,44,Month-to-Month,Credit Card,DSL,Standard,58.61,2644.3,30.8,1,8.8,1
+CUST1506,Male,63.0,North,72,Two-Year,Bank Transfer,No Internet,Premium,66.35,4815.11,9.0,0,10.0,0
+CUST2174,Male,24.0,South,2,Month-to-Month,Electronic Check,No Internet,Basic,27.36,51.3,35.6,5,5.2,1
+CUST1956,Female,47.0,North,43,One-Year,Bank Transfer,Fiber,Basic,45.53,1916.1,33.9,4,7.4,0
+CUST2055,Female,49.0,South,25,One-Year,UPI,DSL,Basic,34.42,856.33,55.9,2,9.4,0
+CUST1820,Male,31.0,East,6,Month-to-Month,Electronic Check,Fiber,Standard,68.43,441.32,49.8,5,7.9,1
+CUST2050,Female,44.0,South,4,One-Year,UPI,No Internet,Premium,86.14,346.54,33.5,3,6.6,0
+CUST1865,Female,23.0,West,12,Month-to-Month,Electronic Check,DSL,Basic,39.73,515.48,35.0,0,10.0,0
+CUST1583,Male,39.0,North,29,One-Year,Credit Card,Fiber,Basic,40.23,1127.88,54.4,3,8.9,0
+CUST2009,Male,48.0,North,13,Month-to-Month,UPI,DSL,Standard,60.52,832.6,,5,6.9,1
+CUST2199,Female,29.0,East,42,Month-to-Month,Bank Transfer,DSL,Standard,61.0,2851.66,18.7,1,7.3,1
+CUST1598,Female,38.0,East,72,Two-Year,Electronic Check,DSL,Basic,27.25,1906.38,26.0,1,10.0,0
+CUST1308,Male,73.0,North,22,Month-to-Month,Credit Card,DSL,Basic,26.44,586.87,63.0,1,10.0,0
+CUST2096,Male,51.0,East,72,One-Year,Credit Card,Fiber,Standard,82.22,6089.33,38.5,6,7.3,0
+CUST1846,Male,40.0,South,65,Month-to-Month,Credit Card,DSL,Basic,32.25,2173.39,43.6,6,9.3,0
+CUST2062,Male,40.0,South,2,Month-to-Month,Credit Card,DSL,Basic,32.3,67.06,47.4,6,7.2,0
+CUST1039,Female,49.0,North,14,One-Year,Credit Card,Fiber,Standard,76.49,1073.07,67.9,3,,0
+CUST1030,Female,,North,72,Two-Year,Electronic Check,DSL,Basic,35.2,2592.91,25.7,1,10.0,0
+CUST1242,Male,46.0,North,55,One-Year,Bank Transfer,Fiber,Basic,59.0,3177.33,44.2,3,7.6,0
+CUST1947,Female,42.0,West,52,One-Year,Electronic Check,No Internet,Standard,43.45,2250.74,3.2,0,8.8,0
+CUST1136,Female,25.0,North,17,One-Year,Electronic Check,Fiber,Premium,100.57,1697.36,62.2,2,8.5,0
+CUST1984,Male,31.0,South,1,Month-to-Month,Bank Transfer,Fiber,Basic,61.47,62.31,62.4,2,7.4,1
+CUST1772,Female,25.0,East,72,One-Year,Credit Card,,Standard,59.09,4085.5,38.9,2,10.0,0
+CUST1003,Female,58.0,East,6,Two-Year,Electronic Check,DSL,Basic,41.14,264.76,,4,7.4,0
+CUST1630,Female,40.0,South,8,One-Year,UPI,Fiber,Standard,81.72,638.52,35.1,4,,1
+CUST2008,Female,45.0,North,7,Month-to-Month,Electronic Check,Fiber,Basic,44.06,313.48,49.4,5,4.9,1
+CUST2087,Female,40.0,East,12,One-Year,Credit Card,Fiber,Basic,53.37,588.22,31.9,4,7.0,0
+CUST1415,Male,31.0,North,25,One-Year,Credit Card,Fiber,Basic,66.42,1654.57,48.1,6,7.0,0
+CUST1825,Male,22.0,South,13,Two-Year,Credit Card,DSL,Standard,55.19,797.64,18.4,3,3.8,0
+CUST2078,Female,39.0,West,72,Two-Year,Electronic Check,DSL,Basic,26.58,1897.4,52.2,2,7.3,0
+CUST1561,Male,56.0,North,3,Two-Year,Electronic Check,Fiber,Basic,51.0,158.18,23.7,3,8.8,0
+CUST1567,Male,29.0,North,5,Month-to-Month,Credit Card,DSL,Standard,68.32,345.09,27.4,5,4.9,1
+CUST1381,Female,77.0,South,16,Month-to-Month,Credit Card,Fiber,Premium,104.19,1756.02,67.3,4,7.8,1
+CUST1361,Male,55.0,East,37,Two-Year,Electronic Check,No Internet,Standard,44.58,1653.05,29.2,3,8.8,0
+CUST1005,Female,38.0,North,5,Month-to-Month,Electronic Check,DSL,Standard,72.68,355.6,11.8,5,6.2,1
+CUST1100,Female,46.0,North,61,Month-to-Month,UPI,DSL,Standard,61.42,3887.3,38.3,1,10.0,0
+CUST2070,Female,42.0,East,23,Month-to-Month,Electronic Check,DSL,Standard,62.4,1361.12,25.0,1,9.8,1
+CUST1514,Male,45.0,South,13,Month-to-Month,Bank Transfer,Fiber,Basic,42.77,543.15,61.4,1,9.6,0
+CUST1482,Female,32.0,East,61,One-Year,Bank Transfer,No Internet,Premium,73.85,4507.72,30.6,0,9.1,0
+CUST1814,Male,57.0,South,1,Month-to-Month,Electronic Check,DSL,Standard,71.5,73.55,28.7,2,6.7,1
+CUST2042,Female,33.0,South,4,Month-to-Month,Credit Card,Fiber,Basic,45.1,171.57,46.8,3,5.6,1
+CUST2119,Female,47.0,West,8,One-Year,Electronic Check,Fiber,Standard,84.68,700.9,26.2,1,6.8,0
+CUST2072,Male,33.0,East,33,One-Year,Electronic Check,Fiber,Basic,70.28,2400.32,60.1,6,5.0,1
+CUST1227,Female,28.0,North,23,Month-to-Month,Electronic Check,Fiber,Basic,33.86,757.16,53.6,3,7.0,1
+CUST1481,Male,44.0,West,12,Month-to-Month,Electronic Check,Fiber,Standard,80.04,1028.97,32.5,2,9.0,1
+CUST1532,Male,43.0,East,22,One-Year,Credit Card,Fiber,Standard,79.29,,47.1,2,10.0,0
+CUST2169,Male,48.0,South,21,Month-to-Month,Bank Transfer,DSL,Basic,40.02,802.85,30.7,2,7.7,1
+CUST1390,Female,53.0,North,32,Two-Year,UPI,DSL,Basic,33.55,1051.58,56.2,2,10.0,0
+CUST1066,Female,40.0,North,38,Two-Year,Electronic Check,Fiber,Standard,62.05,2318.15,45.3,10,6.8,1
+CUST1067,Male,27.0,West,42,One-Year,Electronic Check,Fiber,Basic,49.28,1883.97,67.6,1,,0
+CUST1328,Female,40.0,North,16,Month-to-Month,Electronic Check,No Internet,Standard,44.4,682.5,1.0,2,8.7,1
+CUST1211,Female,46.0,West,60,Two-Year,Electronic Check,DSL,Standard,79.78,4812.55,,1,10.0,0
+CUST1012,Female,25.0,East,15,Month-to-Month,Bank Transfer,DSL,Basic,37.38,535.45,21.1,2,6.6,0
+CUST1513,Male,78.0,West,28,One-Year,Credit Card,DSL,Standard,65.78,1870.12,46.7,0,7.2,0
+CUST1654,Female,33.0,West,21,One-Year,,No Internet,Standard,58.15,1185.16,13.3,0,10.0,0
+CUST1299,Female,60.0,East,47,Two-Year,Electronic Check,DSL,Premium,103.88,4392.08,33.2,1,7.1,0
+CUST1427,Female,18.0,North,19,Month-to-Month,Bank Transfer,Fiber,Basic,47.27,857.5,64.4,3,7.8,0
+CUST1764,Female,49.0,East,14,One-Year,Bank Transfer,No Internet,Basic,29.24,402.44,9.8,0,8.6,0
+CUST2079,Male,25.0,East,13,One-Year,UPI,Fiber,Premium,105.95,1320.25,77.6,4,6.9,0
+CUST1756,Male,46.0,East,20,Month-to-Month,UPI,Fiber,Premium,107.24,2125.68,56.0,4,5.6,1
+CUST1494,Female,39.0,East,23,Two-Year,Electronic Check,DSL,Premium,87.57,2090.98,33.0,1,5.8,0
+CUST2142,Female,55.0,East,72,Two-Year,Bank Transfer,Fiber,Standard,81.53,6324.11,45.3,4,6.1,0
+CUST1363,Male,50.0,West,7,Month-to-Month,Electronic Check,Fiber,Basic,58.7,374.02,51.7,1,7.7,0
+CUST1535,Male,35.0,East,4,Month-to-Month,Electronic Check,DSL,Basic,34.76,145.34,13.4,4,,1
+CUST1462,Female,45.0,West,33,Month-to-Month,Electronic Check,Fiber,Standard,72.64,2345.52,47.2,3,6.8,0
+CUST2124,Male,38.0,North,24,Month-to-Month,Electronic Check,DSL,Basic,35.41,859.23,77.3,3,9.9,0
+CUST1948,Female,47.0,West,16,One-Year,Bank Transfer,No Internet,Standard,58.73,947.15,59.8,0,8.9,0
+CUST1938,Female,21.0,East,18,Month-to-Month,,No Internet,Basic,26.05,484.75,39.8,0,8.6,0
+CUST1273,Female,38.0,South,18,Month-to-Month,Electronic Check,DSL,Basic,43.98,772.52,44.7,0,10.0,0
+CUST1376,Female,41.0,West,7,One-Year,Electronic Check,Fiber,Basic,54.21,370.89,35.7,1,8.4,0
+CUST1237,Female,42.0,South,38,Month-to-Month,Electronic Check,Fiber,Standard,88.07,3378.11,37.9,3,8.0,0
+CUST1422,Male,55.0,West,15,Month-to-Month,Electronic Check,Fiber,Standard,98.21,1474.92,59.1,0,10.0,1
+CUST1002,Female,60.0,West,72,One-Year,Credit Card,Fiber,Standard,71.06,4906.65,34.7,2,10.0,0
+CUST1006,Female,48.0,East,19,One-Year,Electronic Check,Fiber,Standard,79.23,1421.92,31.5,4,,1
+CUST1311,Male,39.0,North,72,Month-to-Month,Credit Card,DSL,Premium,88.35,,30.4,2,10.0,0
+CUST2033,Female,33.0,West,21,Month-to-Month,Electronic Check,DSL,Basic,49.85,1061.2,21.5,0,10.0,0
+CUST1355,Female,23.0,East,28,One-Year,Bank Transfer,Fiber,Standard,80.69,2234.74,33.5,0,8.9,0
+CUST1493,Male,51.0,East,25,One-Year,Electronic Check,DSL,Basic,30.77,790.3,31.2,3,7.9,0
+CUST1215,Female,65.0,West,27,Month-to-Month,Credit Card,Fiber,Basic,58.88,1594.8,38.0,2,7.0,1
+CUST1864,Male,23.0,South,30,Month-to-Month,Electronic Check,Fiber,Standard,79.65,2290.54,29.7,4,7.9,0
+CUST1027,Male,48.0,South,13,One-Year,Bank Transfer,Fiber,Basic,50.84,651.25,56.9,1,,0
+CUST2162,Female,25.0,South,17,Two-Year,UPI,DSL,Standard,58.43,1036.85,16.9,1,9.7,0
+CUST1377,Male,43.0,West,6,Month-to-Month,Electronic Check,Fiber,Premium,102.77,615.14,54.2,3,4.2,1
+CUST1694,Female,56.0,South,10,Month-to-Month,UPI,DSL,Standard,61.5,648.13,46.2,0,9.8,0
+CUST1788,Female,29.0,West,15,Month-to-Month,Bank Transfer,DSL,Standard,59.4,929.21,39.1,1,8.5,1
+CUST1753,Male,74.0,West,10,Month-to-Month,Electronic Check,Fiber,Premium,97.87,925.49,39.5,1,8.9,0
+CUST1471,Male,27.0,East,16,Month-to-Month,Bank Transfer,DSL,Standard,62.78,1023.51,26.9,0,10.0,0
+CUST1741,Male,59.0,South,7,Month-to-Month,Electronic Check,DSL,Basic,43.52,322.13,54.5,4,5.5,1
+CUST1543,Female,33.0,West,28,Month-to-Month,Credit Card,DSL,Standard,60.92,1660.74,,0,10.0,0
+CUST1354,Male,18.0,North,11,Two-Year,Electronic Check,Fiber,Basic,57.77,706.69,73.3,3,,0
+CUST2054,Male,59.0,West,72,Two-Year,Credit Card,Fiber,Basic,48.88,3422.54,59.6,4,5.7,0
+CUST1961,Male,46.0,North,5,Month-to-Month,,No Internet,Basic,25.89,138.12,5.3,5,5.8,1
+CUST1256,Female,56.0,North,9,Month-to-Month,UPI,DSL,Standard,58.81,508.64,39.6,0,8.0,0
+CUST1291,Male,35.0,West,72,Month-to-Month,Bank Transfer,DSL,Premium,95.14,6700.97,15.2,2,9.6,0
+CUST1025,Male,45.0,West,29,One-Year,Credit Card,Fiber,Premium,104.16,2990.14,35.1,3,5.9,0
+CUST1336,Male,50.0,West,29,Month-to-Month,Credit Card,Fiber,Standard,85.41,,68.9,2,5.5,0
+CUST2033,Female,33.0,West,21,Month-to-Month,Electronic Check,DSL,Basic,49.85,1061.2,21.5,0,10.0,0
+CUST1047,Male,44.0,North,28,Month-to-Month,Credit Card,DSL,Basic,36.77,986.16,46.5,0,10.0,0
+CUST1318,Male,50.0,North,14,Month-to-Month,,,Standard,77.69,1026.29,32.9,6,7.4,1
+CUST1106,Male,34.0,East,8,Two-Year,Credit Card,,Premium,82.34,709.57,30.8,0,7.7,0
+CUST1806,Female,35.0,South,11,Month-to-Month,UPI,Fiber,Standard,81.95,917.46,53.0,3,6.6,1
+CUST1055,Female,29.0,West,72,One-Year,Electronic Check,No Internet,Basic,32.96,2342.09,5.4,1,10.0,0
+CUST2090,Male,30.0,West,18,One-Year,Credit Card,No Internet,Standard,44.84,754.76,40.7,0,9.6,0
+CUST1213,Female,63.0,West,14,One-Year,,DSL,Standard,61.18,927.01,68.6,0,8.7,0
+CUST1120,Female,53.0,South,16,Month-to-Month,Bank Transfer,Fiber,Basic,57.87,898.31,71.7,1,9.5,0
+CUST1570,Male,36.0,East,72,Month-to-Month,UPI,Fiber,Standard,79.1,6032.34,55.8,0,,0
+CUST2032,Male,43.0,North,18,Two-Year,Electronic Check,Fiber,Basic,66.67,1293.52,58.6,4,5.5,1
+CUST1528,Female,50.0,North,55,Month-to-Month,Bank Transfer,Fiber,Standard,77.39,4024.15,42.1,1,10.0,0
+CUST1072,Female,57.0,South,69,One-Year,Electronic Check,DSL,Basic,47.1,2914.0,21.2,5,7.3,0
+CUST1721,Male,18.0,South,7,Month-to-Month,Credit Card,Fiber,Basic,57.68,421.01,65.2,5,5.8,1
+CUST1754,Female,27.0,West,8,Month-to-Month,UPI,DSL,Standard,64.58,512.42,43.6,3,7.4,0
+CUST1841,Female,25.0,West,23,One-Year,Electronic Check,DSL,Premium,82.43,1860.39,24.3,1,9.6,1
+CUST1752,Male,27.0,East,44,Month-to-Month,Bank Transfer,Fiber,Standard,72.74,3428.92,60.8,3,9.3,0
+CUST1902,Male,20.0,West,13,Month-to-Month,Bank Transfer,Fiber,Standard,86.24,1199.7,29.5,6,4.5,0
+CUST1879,Female,55.0,North,6,Month-to-Month,UPI,Fiber,Basic,63.0,368.82,35.7,4,4.8,1
+CUST1560,Male,18.0,South,8,One-Year,Credit Card,DSL,Standard,60.05,510.18,18.9,0,8.3,0
+CUST1823,Female,48.0,North,65,One-Year,Electronic Check,DSL,Basic,29.16,2041.74,11.7,0,10.0,0
+CUST1738,Male,29.0,North,17,One-Year,Credit Card,Fiber,Premium,98.67,1723.59,39.9,4,8.9,0
+CUST2155,Male,38.0,West,72,One-Year,Credit Card,DSL,Standard,68.44,5194.85,78.3,2,10.0,0
+CUST1325,Female,48.0,North,10,One-Year,Credit Card,Fiber,Basic,59.96,581.0,51.5,5,9.0,0
+CUST1934,Female,45.0,South,6,Month-to-Month,Credit Card,Fiber,Standard,75.01,438.69,39.7,10,2.7,1
+CUST1316,Male,28.0,North,7,Month-to-Month,Credit Card,DSL,Standard,63.32,437.82,69.7,3,9.3,0
+CUST1979,Male,57.0,West,15,Two-Year,Electronic Check,Fiber,Standard,77.47,1096.18,70.4,2,8.8,0
+CUST1836,Female,54.0,West,19,Two-Year,UPI,Fiber,Basic,56.8,1134.54,57.4,7,6.5,0
+CUST1536,Female,46.0,West,1,Month-to-Month,Credit Card,DSL,Basic,40.38,42.29,40.2,4,6.7,1
+CUST1692,Male,26.0,East,72,Two-Year,Electronic Check,Fiber,Premium,110.23,8616.59,38.0,3,6.9,0
+CUST1816,Female,38.0,North,14,Month-to-Month,Credit Card,Fiber,Standard,72.62,1051.08,44.8,2,10.0,1
+CUST1554,Male,41.0,South,10,Month-to-Month,Bank Transfer,No Internet,Basic,22.91,208.83,35.4,0,8.7,0
+CUST1060,Female,52.0,North,10,Two-Year,Electronic Check,DSL,Standard,58.54,617.29,55.8,0,10.0,0
+CUST1730,Male,41.0,East,12,Month-to-Month,Electronic Check,Fiber,Premium,99.39,1207.09,22.6,3,7.3,1
+CUST1092,Male,40.0,East,14,Month-to-Month,Electronic Check,Fiber,Standard,76.08,1034.87,27.3,7,5.0,1
+CUST1866,Female,49.0,South,10,Month-to-Month,Electronic Check,Fiber,Standard,89.9,991.95,52.4,2,8.2,1
+CUST1585,Female,65.0,West,23,Month-to-Month,UPI,DSL,Basic,42.19,978.62,22.6,3,6.7,0
+CUST1351,Male,38.0,South,63,One-Year,UPI,Fiber,Premium,116.32,7482.83,37.4,0,9.6,0
+CUST1943,Male,39.0,West,12,Month-to-Month,Credit Card,No Internet,Standard,61.27,721.82,24.9,0,10.0,1
+CUST1280,Male,39.0,South,72,Two-Year,Bank Transfer,Fiber,Standard,82.13,6032.5,42.6,1,9.4,0
+CUST1490,Female,43.0,West,12,Month-to-Month,Electronic Check,,Basic,42.4,526.44,47.3,3,7.4,0
+CUST1413,Female,55.0,South,5,Month-to-Month,Electronic Check,No Internet,Premium,83.87,426.72,26.8,2,6.9,1
+CUST1359,Female,42.0,West,5,One-Year,Credit Card,Fiber,Standard,81.71,377.76,72.4,4,5.6,1
+CUST1439,Female,55.0,East,8,Month-to-Month,UPI,DSL,Standard,70.61,617.31,34.0,1,10.0,0
+CUST1581,Female,34.0,West,13,Month-to-Month,Electronic Check,DSL,Standard,71.57,950.79,33.6,1,8.2,0
+CUST2167,Female,49.0,South,7,Month-to-Month,Credit Card,Fiber,Basic,43.33,305.34,22.2,3,9.8,0
+CUST1534,Male,61.0,West,27,One-Year,Credit Card,Fiber,Standard,66.62,1715.24,75.0,5,4.3,0
+CUST1731,Male,45.0,East,72,Two-Year,UPI,DSL,Standard,56.46,4149.86,52.8,1,9.2,0
+CUST1746,Male,40.0,North,30,One-Year,Bank Transfer,No Internet,Standard,57.19,1662.92,13.7,1,7.3,0
+CUST1182,Female,30.0,South,10,Month-to-Month,UPI,Fiber,Premium,103.93,1077.94,23.2,1,8.8,1
+CUST1650,Male,33.0,North,40,Two-Year,Credit Card,Fiber,Standard,90.31,3997.72,58.6,4,6.6,0
+CUST2077,Male,57.0,North,13,Two-Year,Electronic Check,Fiber,Premium,117.39,1615.13,20.6,3,5.6,0
+CUST1110,Male,35.0,South,12,Month-to-Month,UPI,Fiber,Basic,51.63,594.27,61.7,2,9.9,1
+CUST1370,Female,46.0,South,11,Month-to-Month,UPI,DSL,Premium,92.93,928.91,23.3,0,7.0,1
+CUST1239,Male,56.0,West,28,Month-to-Month,Electronic Check,DSL,Standard,54.76,1657.78,15.8,0,,1
+CUST1716,Female,48.0,East,49,Month-to-Month,UPI,Fiber,Standard,81.96,3940.26,47.8,2,10.0,1
+CUST1780,Male,23.0,West,61,Two-Year,Credit Card,DSL,Basic,43.88,2755.37,35.1,1,8.4,0
+CUST1704,Male,60.0,East,9,One-Year,Electronic Check,DSL,Standard,65.59,639.84,55.7,3,8.8,0
+CUST1660,Male,18.0,East,8,One-Year,UPI,DSL,Basic,45.59,381.12,25.1,1,7.8,0
+CUST1813,Female,24.0,South,8,One-Year,Electronic Check,DSL,Basic,33.02,271.81,31.0,1,8.3,0
+CUST1261,Female,21.0,South,11,Month-to-Month,Electronic Check,Fiber,Basic,60.22,661.16,47.5,4,7.4,0
+CUST1708,Male,39.0,West,25,Month-to-Month,UPI,DSL,Standard,66.76,1640.92,31.0,0,,0
+CUST1657,Male,37.0,South,21,Month-to-Month,Credit Card,DSL,Premium,84.45,1741.72,38.8,3,9.3,0
+CUST1339,Female,35.0,South,12,One-Year,Electronic Check,DSL,Standard,63.2,793.29,21.5,1,10.0,0
+CUST1676,Female,49.0,North,15,Month-to-Month,Credit Card,Fiber,Standard,59.3,879.69,45.5,5,5.1,1
+CUST2113,Female,27.0,North,72,Two-Year,UPI,Fiber,Standard,70.67,5224.84,51.1,1,9.5,0
+CUST2182,Male,36.0,North,40,Month-to-Month,UPI,DSL,Standard,53.03,2040.15,62.8,2,,0
+CUST1183,Male,58.0,West,23,Month-to-Month,Electronic Check,Fiber,Standard,81.94,1985.15,24.9,1,7.6,1
+CUST1137,Male,40.0,East,15,Month-to-Month,Bank Transfer,DSL,Basic,30.65,477.08,49.7,2,7.5,0
+CUST2165,Female,50.0,East,72,Two-Year,Electronic Check,Fiber,Standard,77.07,5830.88,35.5,4,7.9,0
+CUST1714,Female,35.0,North,21,Month-to-Month,,Fiber,Standard,68.92,1506.7,51.4,3,8.4,1
+CUST2069,Male,50.0,West,72,Two-Year,Electronic Check,Fiber,Standard,74.43,5113.96,75.5,2,8.1,0
+CUST1080,Female,54.0,South,8,Month-to-Month,Bank Transfer,Fiber,Basic,59.54,477.7,25.8,2,8.2,0
+CUST1636,Female,44.0,North,37,One-Year,Credit Card,DSL,Basic,51.86,1827.21,50.9,0,7.9,0
+CUST2015,Male,45.0,North,6,Month-to-Month,Electronic Check,DSL,Premium,91.84,585.22,36.5,6,5.6,1
+CUST2193,Female,27.0,North,18,Month-to-Month,,No Internet,Standard,48.3,910.07,12.1,3,6.5,1
+CUST1029,Female,48.0,North,47,One-Year,Electronic Check,No Internet,Basic,33.73,1560.65,50.4,0,10.0,0
+CUST1845,Female,52.0,North,63,One-Year,Credit Card,Fiber,Basic,44.37,2573.82,20.2,2,9.0,0
+CUST1165,Male,29.0,South,9,Month-to-Month,Bank Transfer,Fiber,Standard,68.15,590.11,32.2,3,6.5,1
+CUST1248,Male,50.0,East,69,One-Year,Electronic Check,Fiber,Standard,72.26,4669.97,45.5,0,10.0,0
+CUST1307,Female,42.0,South,19,Month-to-Month,UPI,Fiber,Premium,103.57,1744.59,27.2,2,8.9,0
+CUST1771,Female,56.0,West,28,One-Year,Electronic Check,Fiber,Standard,79.46,2146.06,68.7,3,6.5,0
+CUST1465,Female,38.0,West,13,Month-to-Month,Bank Transfer,Fiber,Premium,109.75,1547.61,56.6,1,7.3,0
+CUST1346,Female,49.0,North,9,Month-to-Month,Electronic Check,No Internet,Premium,89.12,814.09,43.3,3,5.4,1
+CUST1334,Male,36.0,North,8,Month-to-Month,Credit Card,,Standard,74.61,565.46,25.1,0,8.3,0
+CUST1285,Male,32.0,North,8,One-Year,Electronic Check,Fiber,Standard,81.42,654.06,45.4,0,6.3,1
+CUST2098,Female,53.0,North,36,Month-to-Month,Credit Card,DSL,Basic,52.01,1954.3,29.0,2,9.0,0
+CUST1097,Male,49.0,North,12,Month-to-Month,Electronic Check,DSL,Standard,52.75,660.64,36.7,1,10.0,0
+CUST1486,Male,31.0,South,4,Month-to-Month,Credit Card,DSL,Basic,34.06,138.74,36.2,3,6.0,1
+CUST2041,Female,45.0,North,16,Month-to-Month,Electronic Check,Fiber,Basic,53.69,925.56,34.8,2,10.0,1
+CUST1923,Female,49.0,North,72,Two-Year,UPI,No Internet,Standard,40.74,2932.44,1.0,4,8.2,0
+CUST1609,Male,36.0,North,19,One-Year,Electronic Check,DSL,Basic,34.34,610.97,65.1,1,9.1,0
+CUST1688,Female,54.0,West,72,One-Year,UPI,Fiber,Standard,77.58,5713.54,46.0,1,9.7,1
+CUST1621,Male,47.0,South,34,One-Year,Electronic Check,DSL,Basic,41.85,1366.59,38.0,0,10.0,0
+CUST1809,Female,45.0,East,1,Month-to-Month,Electronic Check,,Premium,86.02,86.56,26.1,7,4.3,1
+CUST1765,Male,37.0,North,16,One-Year,Electronic Check,Fiber,Standard,76.47,1234.43,24.7,2,8.8,0
+CUST2006,Female,43.0,East,19,Month-to-Month,UPI,DSL,Premium,90.19,1727.47,16.5,2,7.1,0
+CUST1065,Female,52.0,West,43,One-Year,Credit Card,Fiber,Premium,100.24,4434.18,42.7,4,5.2,0
+CUST1643,Male,39.0,West,39,Month-to-Month,Credit Card,DSL,Basic,33.15,1313.08,46.7,2,,0
+CUST2036,Male,59.0,North,18,Month-to-Month,Credit Card,DSL,Basic,40.33,694.99,36.6,0,9.1,0
+CUST1575,Male,36.0,South,23,Two-Year,Credit Card,DSL,Standard,52.26,1098.44,17.8,5,10.0,0
+CUST2088,Male,51.0,North,40,Month-to-Month,UPI,DSL,Basic,30.49,1292.17,12.0,0,10.0,0
+CUST2103,Female,57.0,South,10,One-Year,Credit Card,DSL,Basic,42.45,420.0,28.3,1,10.0,1
+CUST1302,Female,59.0,South,14,Month-to-Month,Bank Transfer,Fiber,Standard,75.37,1002.78,32.1,4,6.8,1
+CUST1254,Male,38.0,South,6,Month-to-Month,Bank Transfer,DSL,Premium,90.06,550.86,12.1,5,7.6,1
+CUST1969,Male,76.0,South,8,Month-to-Month,Credit Card,DSL,Standard,67.63,514.8,20.4,1,8.6,0
+CUST1942,Male,29.0,East,19,Month-to-Month,UPI,DSL,Standard,51.46,1099.15,21.9,1,8.9,0
+CUST1312,Male,,East,19,Month-to-Month,UPI,DSL,Premium,98.22,1854.31,32.8,2,9.3,0
+CUST1869,Male,36.0,South,7,Month-to-Month,Electronic Check,DSL,Standard,68.1,460.49,,5,5.9,1
+CUST1221,Male,26.0,South,35,Two-Year,Bank Transfer,DSL,Basic,40.97,1351.61,20.7,4,7.7,0
+CUST1477,Female,53.0,South,32,Month-to-Month,Credit Card,DSL,Standard,53.1,1683.41,15.8,3,6.7,0
+CUST1388,Male,29.0,South,60,Two-Year,UPI,No Internet,Premium,85.87,4911.73,13.3,1,7.7,0
+CUST1235,Female,59.0,West,21,Month-to-Month,Credit Card,Fiber,Basic,51.48,1204.14,36.2,2,9.1,0
+CUST1852,Female,50.0,South,14,Month-to-Month,Bank Transfer,DSL,Standard,64.21,853.88,40.0,1,6.5,1
+CUST2094,Female,27.0,South,5,Month-to-Month,Credit Card,Fiber,Standard,86.16,387.63,38.0,6,3.2,1
+CUST1720,Female,47.0,South,28,Month-to-Month,UPI,Fiber,Basic,49.69,1361.7,53.3,1,10.0,0
+CUST1305,Male,28.0,South,26,Month-to-Month,Bank Transfer,Fiber,Basic,60.98,1668.35,41.1,4,7.8,0
+CUST2115,Male,47.0,South,24,One-Year,Electronic Check,DSL,Premium,89.38,,33.6,3,8.7,0
+CUST2024,Female,28.0,West,7,Month-to-Month,Electronic Check,Fiber,Basic,44.56,342.88,28.7,1,8.8,0
+CUST2108,Female,38.0,East,58,One-Year,Electronic Check,Fiber,Basic,55.35,2972.05,42.9,3,6.7,0
+CUST1927,Female,22.0,South,18,Two-Year,Bank Transfer,Fiber,Premium,104.76,2090.53,61.2,1,8.6,0
+CUST2143,Female,41.0,South,1,Month-to-Month,Electronic Check,DSL,Basic,41.58,41.2,64.2,7,8.1,1
+CUST1249,Male,22.0,North,13,Two-Year,Electronic Check,No Internet,Basic,35.72,427.12,12.9,0,10.0,0
+CUST1767,Male,35.0,West,5,Month-to-Month,Bank Transfer,Fiber,Standard,69.57,324.43,59.1,3,6.5,1
+CUST1602,Female,41.0,North,10,Month-to-Month,Electronic Check,Fiber,Basic,54.44,591.53,41.6,5,5.6,1
+CUST1071,Male,45.0,South,65,Two-Year,Bank Transfer,Fiber,Basic,50.34,3260.15,41.9,4,7.1,0
+CUST1094,Male,26.0,South,27,Two-Year,Bank Transfer,,Premium,102.58,2633.26,61.0,1,6.9,0
+CUST1553,Female,40.0,West,36,Two-Year,Credit Card,DSL,Basic,48.42,1719.27,33.3,3,8.1,0
+CUST1033,Male,75.0,East,10,Month-to-Month,Credit Card,DSL,Basic,44.93,494.62,29.4,1,7.1,0
+CUST2091,Female,50.0,East,22,Month-to-Month,Electronic Check,DSL,Standard,61.34,1306.93,15.1,1,8.4,0
+CUST2160,Male,48.0,West,36,One-Year,Credit Card,Fiber,Standard,76.86,2876.59,33.8,0,6.3,0
+CUST1978,Female,,North,29,Month-to-Month,Credit Card,DSL,Premium,86.98,2452.93,39.7,2,6.2,1
+CUST1448,Male,46.0,West,11,One-Year,Credit Card,Fiber,Standard,85.55,924.09,56.3,2,8.2,0
+CUST1445,Female,43.0,South,59,One-Year,Electronic Check,DSL,Basic,50.02,,32.0,4,6.4,1
+CUST1259,Female,57.0,South,28,Month-to-Month,Electronic Check,Fiber,Basic,48.58,1307.45,65.3,3,,0
+CUST1204,Male,48.0,North,7,Month-to-Month,Electronic Check,Fiber,Basic,48.96,324.57,102.7,4,6.9,1
+CUST1770,Male,36.0,South,20,Two-Year,Electronic Check,Fiber,Basic,42.23,848.8,54.8,0,8.6,0
+CUST2171,Female,55.0,South,14,Month-to-Month,Credit Card,Fiber,Standard,74.29,1055.69,36.8,2,9.2,0
+CUST1593,Female,58.0,East,33,One-Year,UPI,DSL,Premium,87.88,2722.22,68.9,3,,0
+CUST1365,Male,23.0,South,32,Two-Year,Electronic Check,DSL,Basic,33.83,1152.28,48.3,0,10.0,0
+CUST1727,Male,32.0,East,1,Month-to-Month,Bank Transfer,Fiber,Basic,53.45,53.65,57.3,6,5.9,1
+CUST1077,Female,57.0,North,10,Month-to-Month,Credit Card,DSL,Basic,43.21,430.25,15.6,1,10.0,0
+CUST1084,Male,45.0,West,5,Two-Year,Electronic Check,DSL,Basic,34.32,170.17,30.8,4,6.1,1
+CUST1911,Female,55.0,South,12,Two-Year,Credit Card,DSL,Standard,61.56,764.71,28.6,2,9.4,0
+CUST1082,Female,39.0,South,13,Month-to-Month,Credit Card,DSL,Standard,65.91,868.3,,1,8.6,0
+CUST1457,Male,53.0,West,21,Month-to-Month,UPI,Fiber,Standard,85.11,1868.37,,1,7.1,1
+CUST2158,Male,20.0,West,35,One-Year,Electronic Check,DSL,Basic,37.86,1311.67,99.6,3,8.0,0
+CUST1436,Male,40.0,South,13,One-Year,Electronic Check,Fiber,Standard,93.95,1185.44,46.4,0,10.0,0
+CUST1596,Female,59.0,East,15,One-Year,Electronic Check,Fiber,Basic,50.14,761.2,109.3,1,9.8,0
+CUST1900,Male,19.0,East,72,Two-Year,Electronic Check,DSL,Basic,52.77,3501.91,23.8,2,10.0,0
+CUST1404,Female,37.0,North,12,Month-to-Month,Credit Card,Fiber,Basic,50.21,595.6,22.5,3,8.1,1
+CUST2049,Male,23.0,South,44,Two-Year,Credit Card,DSL,Basic,44.0,2121.31,30.6,1,9.6,0
+CUST1615,Female,36.0,South,72,One-Year,Electronic Check,DSL,Basic,42.77,2929.02,,2,9.5,0
+CUST1921,Female,39.0,North,21,Month-to-Month,Credit Card,Fiber,Premium,109.97,2224.81,63.4,2,8.3,0
+CUST1104,Female,31.0,West,7,Month-to-Month,Electronic Check,DSL,Standard,60.64,425.82,24.7,2,7.4,0
+CUST1724,Male,49.0,North,27,Month-to-Month,Electronic Check,Fiber,Standard,66.66,1692.27,37.8,2,6.3,1
+CUST1613,Female,64.0,North,7,One-Year,Electronic Check,Fiber,Basic,61.91,476.38,34.7,6,3.8,0
+CUST1062,Female,40.0,South,33,Month-to-Month,UPI,Fiber,Basic,46.87,1726.61,36.3,2,6.8,0
+CUST1281,Male,40.0,North,30,Two-Year,UPI,DSL,Basic,41.92,1271.2,26.5,3,7.5,0
+CUST1670,Male,51.0,South,11,Month-to-Month,UPI,DSL,Basic,43.19,515.84,20.7,0,8.6,0
+CUST1238,Male,56.0,West,28,Two-Year,Bank Transfer,No Internet,Premium,79.02,2113.94,12.9,0,9.7,0
+CUST1223,Female,24.0,South,72,Two-Year,Electronic Check,DSL,Basic,48.33,3470.02,38.8,1,10.0,0
+CUST1145,Male,23.0,East,10,Month-to-Month,Bank Transfer,DSL,Standard,45.24,446.5,31.0,1,5.5,0
+CUST2196,Male,48.0,North,72,Two-Year,Electronic Check,DSL,Basic,28.73,1890.17,43.2,1,9.9,0
+CUST1373,Male,48.0,West,21,Month-to-Month,Electronic Check,Fiber,Standard,72.96,1541.2,51.6,3,9.7,1
+CUST1118,Male,52.0,East,66,One-Year,UPI,No Internet,Premium,69.32,5229.88,24.3,1,10.0,0
+CUST1964,Female,40.0,West,4,Month-to-Month,Electronic Check,DSL,Basic,35.66,136.82,24.5,6,6.0,1
+CUST1250,Female,47.0,West,21,Two-Year,Credit Card,Fiber,Premium,101.33,,61.9,0,9.9,0
+CUST2161,Female,39.0,North,25,Month-to-Month,Credit Card,Fiber,Standard,69.42,1746.35,33.9,0,9.6,0
+CUST1009,Male,,South,28,Two-Year,Electronic Check,DSL,Premium,78.27,2110.77,29.4,1,8.3,0
+CUST1449,Female,33.0,West,39,Month-to-Month,Bank Transfer,DSL,Standard,59.8,2547.7,53.2,2,10.0,0
+CUST2039,Male,58.0,South,46,One-Year,Electronic Check,Fiber,Premium,110.56,5135.57,57.5,1,7.6,0
+CUST1389,Female,35.0,North,12,Month-to-Month,UPI,DSL,Basic,50.35,581.48,43.8,1,8.2,0
+CUST2066,Male,36.0,East,12,One-Year,UPI,DSL,Standard,57.18,707.09,37.6,3,7.4,0
+CUST1460,Female,18.0,North,5,Month-to-Month,UPI,DSL,Basic,46.4,233.54,81.3,3,6.4,1
+CUST2109,Male,24.0,West,25,Month-to-Month,Credit Card,Fiber,Basic,46.2,1182.32,43.5,0,9.3,0
+CUST1144,Male,43.0,West,9,One-Year,Electronic Check,DSL,Standard,70.16,,36.9,1,6.6,0
+CUST1501,Female,34.0,West,47,Two-Year,Bank Transfer,DSL,Basic,38.9,1700.8,18.1,0,10.0,0
+CUST2112,Female,49.0,South,72,Two-Year,Bank Transfer,DSL,Standard,64.28,4450.34,24.4,5,7.3,0
+CUST1539,Female,30.0,West,30,Month-to-Month,Bank Transfer,Fiber,Standard,75.49,2238.48,54.3,0,8.0,0
+CUST1177,Female,52.0,West,4,Two-Year,Electronic Check,Fiber,Basic,46.58,169.65,66.0,5,6.9,0
+CUST2163,Male,64.0,West,12,Month-to-Month,Credit Card,Fiber,Premium,101.92,1188.59,56.5,2,7.6,1
+CUST1706,Female,27.0,South,29,Month-to-Month,Credit Card,Fiber,Basic,47.67,1325.52,35.7,1,8.0,0
+CUST1591,Male,21.0,South,51,Two-Year,Bank Transfer,Fiber,Standard,77.74,3929.54,43.2,2,7.5,0
+CUST1636,Female,44.0,North,37,One-Year,Credit Card,DSL,Basic,51.86,1827.21,50.9,0,7.9,0
+CUST1007,Female,39.0,South,27,Month-to-Month,Electronic Check,DSL,Premium,85.62,2144.85,23.9,3,,1
+CUST1661,Female,31.0,West,10,Month-to-Month,UPI,Fiber,Premium,113.47,1137.96,71.1,0,,0
+CUST2125,Female,47.0,West,14,Month-to-Month,Credit Card,Fiber,Premium,94.21,1269.1,59.5,2,7.5,1
+CUST1357,Female,40.0,South,28,One-Year,UPI,DSL,Premium,104.25,2855.97,38.3,1,7.7,1
+CUST1329,Male,18.0,North,36,Two-Year,UPI,No Internet,Basic,39.6,1419.12,64.1,2,7.4,0
+CUST1712,Female,28.0,West,28,One-Year,Electronic Check,DSL,Basic,33.34,958.25,18.0,2,10.0,0
+CUST1838,Male,,East,7,Month-to-Month,Electronic Check,Fiber,Premium,104.86,,26.6,1,8.6,0
+CUST1258,Male,35.0,West,8,Month-to-Month,Bank Transfer,DSL,Standard,63.09,528.9,25.6,2,9.0,1
+CUST1901,Male,36.0,North,4,Month-to-Month,Credit Card,Fiber,Standard,84.07,357.87,38.7,6,3.7,1
+CUST1783,Female,25.0,North,52,Month-to-Month,Credit Card,DSL,Basic,30.51,1452.41,40.1,2,8.7,0
+CUST1920,Male,44.0,North,9,Month-to-Month,Electronic Check,DSL,Standard,71.94,655.39,24.3,2,7.7,0
+CUST1837,Female,27.0,North,16,Month-to-Month,Electronic Check,DSL,Standard,64.96,952.27,32.7,1,10.0,0
+CUST1525,Male,51.0,North,72,One-Year,Electronic Check,Fiber,Premium,102.29,7572.59,42.7,2,10.0,0
+CUST1958,Male,44.0,South,37,One-Year,Electronic Check,Fiber,Basic,60.83,2076.75,36.9,6,6.8,0
+CUST1666,Female,31.0,West,5,Month-to-Month,Credit Card,DSL,Premium,87.41,426.42,14.2,4,7.9,1
+CUST1759,Male,39.0,East,8,Month-to-Month,Bank Transfer,Fiber,Basic,55.28,506.89,40.8,3,9.0,1
+CUST2145,Male,23.0,North,14,Month-to-Month,Electronic Check,Fiber,Standard,79.29,1032.99,49.3,0,9.4,0
+CUST1440,Female,31.0,East,20,One-Year,Credit Card,Fiber,Standard,80.26,1587.44,33.3,3,7.4,0
+CUST1531,Female,51.0,North,20,Month-to-Month,Bank Transfer,DSL,Premium,86.03,1640.71,8.1,4,6.1,1
+CUST1970,Male,23.0,South,38,Two-Year,Electronic Check,DSL,Standard,53.94,2017.46,15.2,0,9.4,0
+CUST1228,Female,35.0,West,47,Month-to-Month,UPI,DSL,Standard,67.68,3090.04,43.3,2,8.3,0
+CUST2045,Male,49.0,North,72,Month-to-Month,UPI,No Internet,Premium,71.93,4955.54,27.1,0,10.0,0
+CUST1212,Male,56.0,West,19,Month-to-Month,Credit Card,Fiber,Basic,53.48,1148.78,79.4,1,10.0,1
+CUST1079,Female,,East,10,Two-Year,Electronic Check,Fiber,Premium,106.61,1066.68,36.4,0,7.6,0
+CUST1148,Male,40.0,South,7,Month-to-Month,Electronic Check,DSL,Premium,87.7,579.91,34.3,3,5.4,1
+CUST1599,Female,39.0,East,4,Month-to-Month,Electronic Check,Fiber,Basic,55.01,236.8,34.6,3,7.3,1
+CUST1715,Male,41.0,North,23,One-Year,Bank Transfer,No Internet,Premium,80.58,1957.37,34.4,0,,0
+CUST1597,Female,51.0,South,2,Month-to-Month,UPI,Fiber,Basic,47.03,91.41,74.6,6,5.1,1
+CUST1133,Male,44.0,West,40,Month-to-Month,Credit Card,Fiber,Basic,53.76,2268.08,128.7,2,9.7,0
+CUST1789,Female,28.0,North,16,Month-to-Month,Bank Transfer,DSL,Premium,94.87,1462.51,28.4,0,7.0,1
+CUST1408,Male,59.0,South,18,Month-to-Month,Electronic Check,Fiber,Standard,84.77,1478.15,31.1,1,8.3,1
+CUST2156,Male,,South,11,Month-to-Month,Credit Card,DSL,Premium,98.94,1055.16,9.2,1,10.0,0
+CUST1507,Female,37.0,South,9,Month-to-Month,Bank Transfer,Fiber,Basic,54.72,504.12,53.3,2,7.7,1
+CUST1886,Male,18.0,South,15,One-Year,Bank Transfer,Fiber,Standard,85.8,1413.02,48.2,1,8.0,0
+CUST1504,Female,46.0,South,17,Month-to-Month,UPI,Fiber,Standard,73.28,1125.67,36.4,5,6.0,0
+CUST1682,Male,36.0,South,13,One-Year,Bank Transfer,Fiber,Standard,78.52,963.98,49.4,1,9.3,0
+CUST1347,Male,50.0,East,13,Month-to-Month,Electronic Check,DSL,Standard,62.98,776.91,34.5,1,9.3,0
+CUST1386,Female,44.0,South,9,One-Year,Electronic Check,Fiber,Basic,63.97,571.72,36.4,2,7.4,0
+CUST1000,Female,51.0,East,20,One-Year,Electronic Check,Fiber,Standard,78.74,1587.1,88.7,0,,0
+CUST1360,Female,35.0,West,28,One-Year,,No Internet,Basic,26.59,,31.2,0,10.0,0
+CUST2138,Male,62.0,East,9,Month-to-Month,Electronic Check,DSL,Standard,63.38,544.5,30.1,4,8.8,1
+CUST1475,Male,34.0,West,35,Month-to-Month,Credit Card,DSL,Basic,41.8,1464.18,60.3,2,8.9,0
+CUST1785,Male,42.0,West,18,Month-to-Month,UPI,No Internet,Standard,52.41,947.62,41.9,3,,1
+CUST1761,Male,26.0,South,72,Two-Year,Credit Card,Fiber,Standard,84.55,5649.46,102.0,0,10.0,0
+CUST1172,Male,57.0,South,25,One-Year,Bank Transfer,Fiber,Basic,52.99,1310.74,36.9,2,8.7,0
+CUST1450,Male,33.0,North,6,Month-to-Month,UPI,DSL,Basic,37.13,215.47,30.8,4,7.8,0
+CUST1125,Male,54.0,West,25,Month-to-Month,Bank Transfer,Fiber,Basic,50.6,1286.27,45.5,5,8.4,0
+CUST2121,Male,24.0,North,72,Two-Year,Credit Card,Fiber,Basic,48.42,3404.64,46.8,1,,0
+CUST1530,Female,50.0,West,13,One-Year,Bank Transfer,DSL,Basic,47.64,575.81,77.1,1,10.0,0
+CUST1090,Male,43.0,South,14,Two-Year,Electronic Check,Fiber,Basic,39.31,569.21,68.9,2,7.5,1
+CUST2166,Female,44.0,North,12,Two-Year,Bank Transfer,DSL,Standard,64.47,799.85,71.2,0,6.5,0
+CUST1181,Female,34.0,North,72,Two-Year,UPI,Fiber,Standard,90.98,6544.21,21.5,5,7.9,0
+CUST1667,Female,44.0,North,1,Month-to-Month,UPI,Fiber,Standard,73.09,67.72,57.3,5,3.8,1
+CUST2011,Female,52.0,South,52,Month-to-Month,Electronic Check,Fiber,Premium,107.64,5886.78,69.7,3,5.0,1
+CUST1251,Female,28.0,East,9,Month-to-Month,Electronic Check,Fiber,Basic,53.28,481.26,40.2,1,9.7,0
+CUST1069,Male,52.0,South,11,Month-to-Month,Credit Card,DSL,Basic,39.53,429.26,80.0,1,8.8,1
+CUST1131,Female,64.0,South,15,One-Year,,DSL,Standard,67.82,1034.41,23.5,4,7.8,0
+CUST1300,Female,52.0,East,40,One-Year,Electronic Check,DSL,Basic,26.39,1086.76,25.7,2,9.4,0
+CUST1677,Male,34.0,South,21,One-Year,UPI,Fiber,Premium,93.02,2006.36,34.5,2,8.7,0
+CUST1326,Female,49.0,South,42,One-Year,Credit Card,Fiber,Premium,102.33,4299.75,66.9,0,8.9,1
+CUST2179,Male,47.0,East,23,Month-to-Month,Bank Transfer,,Basic,42.99,992.06,35.0,1,9.2,1
+CUST1499,Female,47.0,East,27,Month-to-Month,UPI,Fiber,Standard,79.86,2295.94,50.3,1,10.0,0
+CUST1673,Female,33.0,West,22,One-Year,UPI,Fiber,Standard,78.23,1597.2,24.3,3,8.4,0
+CUST2107,Male,30.0,South,11,Two-Year,Credit Card,DSL,Standard,51.62,,59.9,0,10.0,0
+CUST1495,Female,47.0,South,15,Month-to-Month,Electronic Check,DSL,Basic,51.65,722.37,42.1,1,8.9,0
+CUST1338,Male,36.0,West,22,One-Year,Credit Card,Fiber,Basic,39.47,925.84,52.5,1,10.0,1
+CUST1974,Male,24.0,South,14,Month-to-Month,UPI,Fiber,Standard,79.99,1142.36,56.4,5,4.9,1
+CUST1164,Female,50.0,South,11,One-Year,Electronic Check,Fiber,Premium,100.68,1117.57,49.9,4,6.4,0
+CUST1028,Male,64.0,West,9,One-Year,Bank Transfer,DSL,Premium,102.88,937.36,54.5,3,8.6,0
+CUST1516,Male,38.0,South,28,Month-to-Month,,Fiber,Standard,68.58,1935.14,33.8,1,10.0,0
+CUST1193,Female,21.0,North,13,Month-to-Month,Electronic Check,Fiber,Standard,74.01,994.62,47.0,1,6.2,0
+CUST1787,Male,47.0,East,72,Two-Year,Electronic Check,Fiber,Standard,81.88,6288.74,51.4,2,9.2,0
+CUST1169,Female,54.0,South,4,Two-Year,Bank Transfer,DSL,Standard,64.09,271.1,51.3,2,8.9,0
+CUST1717,Male,33.0,East,72,One-Year,Bank Transfer,Fiber,Premium,100.43,7268.8,86.4,4,7.6,0
+CUST1173,Female,34.0,West,36,Two-Year,UPI,DSL,Standard,78.11,2438.65,36.5,1,7.8,0
+CUST1518,Male,36.0,East,23,Month-to-Month,Electronic Check,Fiber,Basic,69.48,1637.95,41.0,4,7.0,1
+CUST1930,Male,45.0,North,53,Two-Year,Bank Transfer,Fiber,Basic,53.71,3012.16,24.4,2,9.6,0
+CUST2063,Female,54.0,North,62,Month-to-Month,Electronic Check,DSL,Basic,44.8,2531.68,35.5,1,8.2,0
+CUST1491,Female,53.0,West,72,Two-Year,Bank Transfer,Fiber,Standard,66.24,4842.5,53.4,1,6.9,0
+CUST1073,Male,24.0,East,21,Month-to-Month,Credit Card,DSL,Basic,42.4,874.92,22.2,2,8.9,0
+CUST1992,Female,56.0,East,72,Two-Year,Bank Transfer,Fiber,Premium,93.91,,55.9,1,8.4,0
+CUST1587,Male,40.0,East,72,One-Year,Electronic Check,Fiber,Premium,102.56,7506.85,60.1,3,7.1,0
+CUST1234,Female,32.0,North,25,One-Year,Electronic Check,DSL,Basic,27.0,701.46,30.7,0,10.0,0
+CUST1214,Female,42.0,North,12,Month-to-Month,Credit Card,Fiber,Basic,44.9,458.67,46.4,0,10.0,0
+CUST2173,Female,43.0,North,21,Month-to-Month,Credit Card,No Internet,Standard,68.8,1479.08,8.1,2,9.1,0
+CUST1132,Female,52.0,South,3,One-Year,Credit Card,DSL,Standard,73.47,225.09,50.2,3,6.0,0
+CUST2026,Female,,East,22,Month-to-Month,UPI,DSL,Standard,63.69,1534.53,37.4,1,7.5,0
+CUST1872,Female,31.0,North,22,One-Year,Bank Transfer,Fiber,Standard,73.33,1595.56,38.8,3,6.8,0
+CUST2106,Male,32.0,South,44,Month-to-Month,Electronic Check,DSL,Standard,52.19,2429.76,16.9,1,10.0,0
+CUST1185,Female,32.0,North,19,Month-to-Month,UPI,Fiber,Standard,72.88,1444.29,42.7,4,,1
+CUST1041,Female,62.0,South,7,Month-to-Month,Electronic Check,Fiber,Basic,67.9,436.27,56.9,3,7.1,1
+CUST1108,Male,43.0,North,57,One-Year,Credit Card,DSL,Basic,29.51,1627.55,22.6,1,9.3,0
+CUST1857,Female,33.0,South,8,Month-to-Month,Bank Transfer,DSL,Basic,39.18,,17.6,1,10.0,1
+CUST1568,Male,56.0,North,58,One-Year,Credit Card,DSL,Standard,68.35,3827.16,27.5,1,,0
+CUST1739,Male,33.0,North,15,Month-to-Month,UPI,Fiber,Basic,64.48,1009.67,35.5,4,5.6,1
+CUST2105,Female,52.0,South,15,One-Year,Electronic Check,No Internet,Basic,28.04,357.14,60.7,1,9.4,0
+CUST2159,Female,46.0,North,8,Month-to-Month,UPI,Fiber,Basic,57.04,468.78,28.0,3,7.7,0
+CUST1483,Male,18.0,South,13,Month-to-Month,Electronic Check,Fiber,Standard,71.94,965.54,52.0,1,10.0,0
+CUST1468,Male,38.0,North,47,Two-Year,UPI,No Internet,Premium,81.51,3755.56,12.1,3,8.2,0
+CUST1024,Female,50.0,North,15,Two-Year,Bank Transfer,Fiber,Premium,99.9,1543.89,76.7,2,6.7,0
+CUST1668,Male,35.0,South,3,One-Year,Bank Transfer,DSL,Basic,32.28,95.55,17.4,6,7.3,0
+CUST1939,Male,68.0,West,13,One-Year,Credit Card,Fiber,Basic,53.97,740.65,70.1,5,9.0,1
+CUST1760,Female,38.0,East,46,Two-Year,Electronic Check,No Internet,Basic,18.79,938.58,22.8,1,9.6,0
+CUST2005,Male,44.0,East,1,Two-Year,Electronic Check,DSL,Standard,66.4,65.81,23.5,8,3.6,0
+CUST1366,Female,40.0,North,12,Month-to-Month,Credit Card,Fiber,Standard,73.76,874.42,56.3,5,6.4,1
+CUST1848,Male,38.0,North,42,Two-Year,Credit Card,Fiber,Basic,60.98,2679.6,50.5,3,8.5,0
+CUST2057,Male,31.0,West,55,Two-Year,Electronic Check,DSL,Basic,39.97,2153.8,21.7,2,10.0,0
+CUST1383,Male,18.0,North,2,Month-to-Month,Electronic Check,DSL,Standard,76.48,148.3,7.8,5,4.8,1
+CUST1454,Male,43.0,West,42,One-Year,UPI,DSL,Standard,59.22,2502.22,48.2,4,7.6,0
+CUST1264,Female,61.0,East,23,Month-to-Month,UPI,No Internet,Standard,53.96,1243.04,27.8,2,8.0,0
+CUST1768,Male,21.0,South,38,Month-to-Month,,Fiber,Premium,111.4,4014.91,33.9,2,10.0,0
+CUST1991,Female,30.0,East,65,One-Year,Credit Card,DSL,Basic,37.51,2518.41,38.0,1,10.0,0
+CUST1444,Male,52.0,North,15,Month-to-Month,Credit Card,DSL,Basic,41.96,562.9,,3,,1
+CUST1395,Male,37.0,East,12,One-Year,Electronic Check,No Internet,Standard,59.03,690.91,1.0,1,9.8,0
+CUST1757,Female,44.0,North,9,Month-to-Month,Electronic Check,Fiber,Premium,100.57,868.2,62.6,3,7.1,1
+CUST1176,Male,52.0,East,12,One-Year,Bank Transfer,DSL,Standard,56.6,691.59,23.7,2,8.8,0
+CUST1018,Female,56.0,East,37,Month-to-Month,Electronic Check,DSL,Standard,66.52,2476.13,18.0,1,7.8,0
+CUST1713,Female,55.0,South,69,One-Year,UPI,Fiber,Standard,84.56,6426.96,49.2,1,9.3,0
+CUST1822,Male,54.0,North,2,One-Year,Bank Transfer,DSL,Standard,63.12,124.5,66.8,4,6.1,1
+CUST1595,Male,38.0,South,19,Month-to-Month,Credit Card,Fiber,Basic,51.88,952.3,77.3,0,10.0,0
+CUST1061,Male,52.0,South,18,One-Year,UPI,No Internet,Standard,42.29,765.09,22.5,2,8.3,0
+CUST1272,Male,45.0,North,41,Month-to-Month,Electronic Check,Fiber,Standard,89.22,3740.52,38.1,3,8.6,1
+CUST1190,Female,36.0,West,42,One-Year,Electronic Check,Fiber,Premium,100.65,4417.82,45.3,1,8.9,0
+CUST1278,Female,33.0,South,42,One-Year,,Fiber,Standard,70.79,3080.6,47.6,3,9.7,0
+CUST1850,Male,34.0,West,19,Two-Year,UPI,No Internet,Premium,81.98,1559.52,51.4,2,8.1,0
+CUST1368,Male,40.0,South,26,Two-Year,Credit Card,Fiber,Standard,71.1,,67.2,3,8.5,0
+CUST1999,Male,51.0,East,11,One-Year,Credit Card,Fiber,Standard,78.02,848.63,45.2,5,7.2,0
+CUST1849,Female,41.0,South,6,Month-to-Month,Electronic Check,Fiber,Premium,107.52,618.69,40.3,4,5.7,1
+CUST1868,Male,35.0,North,19,Two-Year,UPI,DSL,Standard,58.83,1262.56,46.8,0,9.7,0
+CUST1728,Male,43.0,North,32,One-Year,UPI,No Internet,Standard,45.49,1474.27,56.0,3,6.8,0
+CUST1781,Female,23.0,South,18,Month-to-Month,Electronic Check,Fiber,Basic,48.08,,50.9,2,9.2,1
+CUST1547,Male,18.0,South,31,One-Year,Bank Transfer,DSL,Standard,59.05,,29.6,1,,0
+CUST1889,Female,39.0,South,42,Month-to-Month,Credit Card,No Internet,Standard,49.76,2029.1,30.1,1,9.6,0
+CUST1910,Female,32.0,South,72,Two-Year,Bank Transfer,DSL,Standard,73.21,5118.03,34.1,3,8.0,0
+CUST1456,Female,34.0,North,31,One-Year,Electronic Check,DSL,Standard,64.56,1929.69,31.2,0,9.5,0
+CUST1393,Female,38.0,South,7,Two-Year,Electronic Check,DSL,Basic,58.3,389.16,62.0,3,7.2,0
+CUST1675,Male,35.0,West,52,Two-Year,Electronic Check,Fiber,Basic,53.09,2872.73,52.1,3,6.9,0
+CUST1922,Female,22.0,North,33,One-Year,Bank Transfer,,Standard,75.31,2441.52,37.7,2,6.4,0
+CUST2177,Male,46.0,East,7,Month-to-Month,Electronic Check,Fiber,Premium,114.7,773.56,37.0,5,4.6,1
+CUST1375,Male,31.0,North,15,Month-to-Month,Electronic Check,Fiber,Basic,52.85,773.74,42.0,4,7.5,1
+CUST1412,Male,18.0,West,51,One-Year,UPI,No Internet,Standard,50.16,,32.8,2,8.1,0
+CUST1074,Male,40.0,North,11,Month-to-Month,Bank Transfer,DSL,Premium,94.11,1047.82,32.8,0,10.0,0
+CUST1283,Male,45.0,North,47,One-Year,Credit Card,Fiber,Basic,47.1,2272.31,35.5,2,,0
+CUST1874,Female,51.0,South,46,One-Year,Credit Card,DSL,Basic,39.31,,34.0,0,9.8,0
+CUST1500,Female,47.0,West,4,Month-to-Month,Electronic Check,DSL,Premium,87.43,336.9,27.3,4,6.1,1
+CUST1808,Male,69.0,North,14,Month-to-Month,UPI,Fiber,Standard,63.03,851.49,53.2,2,7.1,1
+CUST1616,Female,44.0,East,4,Two-Year,Bank Transfer,Fiber,Standard,64.53,243.5,38.3,5,6.6,0
+CUST1114,Male,34.0,North,13,Month-to-Month,UPI,Fiber,Standard,88.62,1184.65,43.6,6,6.4,1
+CUST1417,Female,30.0,East,18,One-Year,Credit Card,Fiber,Basic,59.34,1086.76,52.1,2,9.5,0
+CUST1601,Female,30.0,East,27,One-Year,UPI,Fiber,Basic,44.37,1227.06,57.2,0,,0
+CUST1604,Female,19.0,East,2,Month-to-Month,Bank Transfer,DSL,Standard,59.77,111.58,67.2,8,3.6,1
+CUST1089,Male,56.0,East,44,One-Year,Credit Card,No Internet,Standard,41.09,1720.19,56.4,3,9.3,0
+CUST2153,Male,32.0,South,6,Month-to-Month,Credit Card,Fiber,Standard,73.62,466.99,72.9,6,7.3,1
+CUST1498,Male,46.0,West,35,One-Year,Bank Transfer,,Basic,68.93,2365.32,62.0,4,7.0,0
+CUST1885,Male,26.0,North,9,One-Year,Electronic Check,Fiber,Premium,111.58,1098.06,,3,7.2,1
+CUST1892,Male,35.0,East,23,One-Year,UPI,DSL,Basic,49.33,1050.04,37.7,1,9.2,0
+CUST1890,Male,19.0,South,23,Month-to-Month,Credit Card,DSL,Standard,65.66,1488.69,31.9,1,10.0,0
+CUST1011,Female,35.0,West,31,Two-Year,Electronic Check,DSL,Standard,68.82,2060.93,29.6,1,9.3,0
+CUST1396,Female,25.0,North,12,One-Year,Electronic Check,Fiber,Premium,104.12,1300.01,34.3,3,6.7,1
+CUST1762,Male,69.0,East,12,Month-to-Month,Bank Transfer,Fiber,Premium,103.2,1272.81,38.2,0,7.1,1
+CUST1555,Male,58.0,East,5,Month-to-Month,Electronic Check,No Internet,Basic,22.07,105.39,11.0,7,7.7,0
+CUST1042,Female,47.0,South,23,Month-to-Month,UPI,Fiber,Standard,77.05,1874.19,18.9,1,10.0,0
+CUST1167,Female,34.0,North,11,Month-to-Month,Credit Card,Fiber,Standard,74.49,858.94,77.1,3,5.9,1
+CUST1416,Male,56.0,North,5,Month-to-Month,Electronic Check,Fiber,Standard,77.91,378.86,63.2,4,6.1,1
+CUST1576,Female,53.0,East,72,One-Year,Bank Transfer,Fiber,Standard,89.29,6318.15,53.3,4,9.1,0
+CUST1267,Male,64.0,North,31,Month-to-Month,Electronic Check,Fiber,Premium,104.51,3241.43,49.6,2,9.8,0
+CUST1914,Female,45.0,North,30,Month-to-Month,Electronic Check,Fiber,Standard,72.45,2072.35,60.7,2,8.9,0
+CUST1426,Male,41.0,South,5,Month-to-Month,Bank Transfer,Fiber,Basic,50.38,248.26,53.5,6,5.4,1
+CUST1690,Male,32.0,North,20,Two-Year,Electronic Check,Fiber,Standard,82.07,1756.95,49.3,2,7.3,0
+CUST1544,Male,44.0,East,37,Month-to-Month,Credit Card,Fiber,Basic,52.08,1885.23,45.4,2,9.2,0
+CUST2127,Female,46.0,North,32,Month-to-Month,Electronic Check,DSL,Standard,67.43,2216.74,44.5,1,8.3,1
+CUST1674,Female,56.0,West,9,Two-Year,Electronic Check,DSL,Standard,53.64,477.77,17.1,3,7.4,0
+CUST1689,Female,60.0,South,72,Two-Year,Bank Transfer,DSL,Standard,58.39,4426.55,58.3,2,10.0,0
+CUST2132,Male,28.0,West,14,Month-to-Month,Credit Card,Fiber,Basic,49.72,694.8,25.1,3,6.2,0
+CUST2181,Male,58.0,North,20,One-Year,UPI,DSL,Standard,61.67,1268.43,59.8,2,9.0,0
+CUST1993,Male,49.0,North,17,Month-to-Month,Electronic Check,Fiber,Standard,78.24,1376.05,35.2,1,9.9,0
+CUST1893,Male,32.0,North,15,Month-to-Month,Electronic Check,DSL,Basic,44.06,603.97,23.1,2,6.2,1
+CUST1257,Male,29.0,South,57,One-Year,Credit Card,DSL,Basic,38.18,2185.93,23.8,2,9.9,0
+CUST1335,Female,24.0,South,43,Month-to-Month,Electronic Check,DSL,Basic,47.27,2059.14,21.9,0,10.0,0
+CUST1015,Male,55.0,South,4,Month-to-Month,Bank Transfer,,Basic,63.78,255.23,39.5,7,5.9,1
+CUST1912,Female,31.0,North,27,One-Year,UPI,No Internet,Standard,46.81,1250.67,20.9,2,10.0,0
+CUST1324,Female,36.0,East,1,Month-to-Month,Electronic Check,DSL,Standard,74.1,70.01,30.0,3,8.6,0
+CUST1607,Male,54.0,South,32,Month-to-Month,Electronic Check,Fiber,Basic,45.37,,54.9,4,7.4,1
+CUST2058,Female,28.0,North,43,Month-to-Month,Credit Card,DSL,Standard,64.54,2748.91,17.4,2,9.6,1
+CUST1798,Female,54.0,West,12,Month-to-Month,Electronic Check,DSL,Standard,68.51,741.75,85.1,2,6.4,1
+CUST1222,Female,47.0,South,8,Month-to-Month,,DSL,Standard,58.22,493.44,29.7,0,9.1,1
+CUST1179,Female,48.0,South,72,Two-Year,UPI,No Internet,Standard,46.21,3140.42,15.1,2,8.1,0
+CUST1099,Female,20.0,South,6,Month-to-Month,,DSL,Basic,31.62,204.52,43.4,4,9.6,1
+CUST1521,Male,23.0,North,21,Month-to-Month,Bank Transfer,DSL,Standard,85.39,1814.35,39.4,0,8.1,1
+CUST1022,Female,43.0,West,37,One-Year,Credit Card,DSL,Basic,46.69,1741.34,37.6,2,10.0,0
+CUST1356,Female,38.0,West,9,Two-Year,UPI,Fiber,Basic,65.5,605.72,46.7,3,6.3,0
+CUST1733,Male,48.0,West,36,Month-to-Month,Credit Card,Fiber,Premium,111.58,3775.56,108.6,2,8.3,0
+CUST1971,Male,33.0,North,3,Month-to-Month,UPI,DSL,Basic,37.92,118.02,21.2,2,7.2,0
+CUST2116,Male,61.0,North,7,One-Year,Credit Card,DSL,Basic,43.09,318.7,47.5,4,5.2,0
+CUST1611,Female,53.0,South,34,Two-Year,Credit Card,DSL,Basic,48.07,1568.07,14.0,1,9.4,1
+CUST2149,Female,37.0,North,46,Two-Year,Electronic Check,DSL,Standard,56.94,2555.64,27.1,1,9.3,0
+CUST1340,Male,57.0,West,50,Month-to-Month,Electronic Check,DSL,Premium,94.35,4261.72,40.8,5,7.4,1
+CUST1431,Female,37.0,West,13,Month-to-Month,Credit Card,No Internet,Standard,46.26,641.67,20.0,1,9.1,0
+CUST1790,Male,50.0,North,21,Month-to-Month,Electronic Check,Fiber,Basic,41.12,889.43,31.5,2,6.3,1
+CUST1217,Male,55.0,South,20,Two-Year,Electronic Check,DSL,Standard,67.56,1338.88,35.2,2,7.6,0
+CUST1203,Male,25.0,South,20,One-Year,Electronic Check,Fiber,Basic,48.24,982.46,47.4,2,8.3,0
+CUST1916,Male,51.0,North,72,One-Year,Credit Card,DSL,Basic,48.03,3701.78,53.5,0,9.9,1
+CUST1933,Female,39.0,West,8,Month-to-Month,Credit Card,No Internet,Standard,66.88,574.39,87.4,0,9.0,0
+CUST1093,Male,44.0,South,12,Two-Year,Credit Card,Fiber,Standard,93.24,1088.77,61.6,3,5.5,0
+CUST2191,Male,24.0,East,29,Month-to-Month,Electronic Check,DSL,Basic,24.62,699.14,21.2,0,10.0,0
+CUST1068,Male,19.0,South,28,One-Year,Credit Card,Fiber,Basic,57.83,1599.77,35.5,2,8.6,0
+CUST1905,Female,18.0,East,11,Month-to-Month,Credit Card,Fiber,Premium,106.3,1116.34,77.3,3,5.5,1
+CUST1284,Female,18.0,East,25,Month-to-Month,UPI,No Internet,Premium,88.43,2180.39,31.4,4,6.4,1
+CUST1696,Female,23.0,East,11,Month-to-Month,Credit Card,No Internet,Basic,19.14,204.76,1.0,2,8.4,0
+CUST1085,Male,49.0,West,18,Month-to-Month,Electronic Check,DSL,Premium,86.95,1754.56,59.6,1,,0
+CUST1434,Male,34.0,West,19,One-Year,Electronic Check,DSL,Standard,65.15,1183.37,47.1,2,9.0,0
+CUST2102,Female,21.0,South,12,Month-to-Month,Credit Card,Fiber,Standard,78.01,932.04,27.8,6,5.0,1
+CUST1153,Female,47.0,South,32,Two-Year,Bank Transfer,No Internet,Basic,26.45,828.73,13.3,2,10.0,0
+CUST1075,Male,39.0,South,18,Month-to-Month,UPI,DSL,Standard,64.11,1159.58,34.9,1,9.9,0
+CUST2047,Female,62.0,East,23,One-Year,Electronic Check,,Basic,56.01,1242.26,54.0,2,9.6,0
+CUST1580,Male,41.0,North,16,One-Year,Bank Transfer,Fiber,Premium,101.73,1454.32,73.7,4,5.2,1
+CUST1446,Female,51.0,South,14,Month-to-Month,Electronic Check,DSL,Standard,58.47,788.82,38.4,0,8.8,0
+CUST1703,Female,38.0,North,9,One-Year,Credit Card,DSL,Basic,40.7,312.38,11.9,0,9.8,0
+CUST1188,Female,26.0,West,25,Month-to-Month,Credit Card,No Internet,Standard,58.38,1370.56,40.6,0,7.8,1
+CUST1271,Male,30.0,North,5,Month-to-Month,Electronic Check,Fiber,Basic,56.6,266.34,38.3,6,,1
+CUST1236,Male,27.0,North,12,Month-to-Month,Bank Transfer,No Internet,Standard,45.41,583.25,3.9,0,7.4,0
+CUST1487,Male,54.0,South,71,Two-Year,Bank Transfer,DSL,Standard,61.3,4771.93,37.6,1,10.0,0
+CUST2164,Male,27.0,East,18,Two-Year,Credit Card,DSL,Premium,91.74,1724.42,28.2,1,8.7,1
+CUST1559,Male,50.0,West,24,Two-Year,Electronic Check,DSL,Basic,40.68,980.71,10.6,1,9.9,0
+CUST1117,Female,23.0,North,8,Month-to-Month,UPI,DSL,Basic,47.62,372.15,37.9,3,,0
+CUST1637,Female,31.0,South,5,Month-to-Month,UPI,Fiber,Standard,82.56,409.8,47.2,10,3.6,1
+CUST2081,Female,40.0,North,32,One-Year,Electronic Check,Fiber,Premium,101.16,2747.02,76.5,1,7.5,0
+CUST1750,Male,55.0,West,1,Month-to-Month,Electronic Check,Fiber,Basic,54.99,54.11,105.5,2,8.7,1
+CUST1512,Male,47.0,West,8,One-Year,Bank Transfer,Fiber,Basic,50.44,377.85,48.7,3,7.2,1
+CUST1633,Male,27.0,North,28,Month-to-Month,Bank Transfer,Fiber,Standard,73.06,2124.93,93.0,6,6.4,0
+CUST1793,Male,49.0,North,13,One-Year,Bank Transfer,Fiber,Standard,85.05,1222.76,32.0,7,5.0,0
+CUST2018,Male,43.0,West,8,Month-to-Month,Credit Card,Fiber,Basic,55.26,427.91,48.7,2,7.3,1
+CUST1861,Female,26.0,North,41,One-Year,Credit Card,Fiber,Premium,107.39,4558.24,24.7,2,7.8,0
+CUST1126,Male,47.0,South,72,Two-Year,UPI,Fiber,Basic,56.45,4196.44,48.5,2,10.0,0
+CUST1116,Female,46.0,East,5,Month-to-Month,Bank Transfer,DSL,Basic,44.77,225.67,,1,10.0,0
+CUST1473,Male,37.0,North,36,Month-to-Month,Electronic Check,DSL,Standard,57.0,1983.24,60.3,1,10.0,0
+CUST1740,Male,47.0,North,10,Month-to-Month,Electronic Check,No Internet,Standard,43.0,425.77,11.6,2,8.5,0
+CUST2004,Female,53.0,South,26,Two-Year,Bank Transfer,DSL,Premium,82.63,2255.04,21.3,1,9.5,0
+CUST1057,Female,57.0,West,7,Month-to-Month,Credit Card,DSL,Standard,63.82,448.3,29.9,6,2.9,1
+CUST1603,Female,45.0,East,30,One-Year,Bank Transfer,Fiber,Basic,51.94,1611.61,37.1,3,8.4,1
+CUST1786,Female,,North,1,One-Year,Electronic Check,DSL,Standard,56.83,58.4,47.9,6,2.6,1
+CUST1982,Female,18.0,West,13,Two-Year,UPI,DSL,Basic,30.77,416.34,31.1,1,8.3,0
+CUST1656,Female,31.0,North,17,One-Year,Electronic Check,Fiber,Standard,75.29,1251.27,81.0,1,9.5,0
+CUST1963,Male,40.0,South,72,One-Year,UPI,No Internet,Basic,21.3,,,0,10.0,0
+CUST1932,Male,19.0,West,32,Month-to-Month,Bank Transfer,DSL,Standard,56.09,1975.44,19.3,0,9.2,0
+CUST1105,Female,31.0,West,12,Month-to-Month,Electronic Check,DSL,Premium,90.25,1082.38,37.1,0,10.0,0
+CUST1635,Male,41.0,North,21,One-Year,Electronic Check,Fiber,Basic,64.11,1334.39,32.8,3,6.8,1
+CUST1369,Female,31.0,South,12,Two-Year,Electronic Check,Fiber,Standard,79.19,905.97,92.3,3,8.1,1
+CUST1268,Male,30.0,East,14,One-Year,Bank Transfer,Fiber,Basic,52.84,790.87,50.1,3,7.8,1
+CUST1655,Male,36.0,West,8,Month-to-Month,Electronic Check,DSL,Basic,41.58,335.32,40.6,1,9.9,1
+CUST1046,Male,46.0,East,13,Month-to-Month,Credit Card,Fiber,Basic,43.81,575.97,,5,8.4,1
+CUST1349,Male,23.0,North,5,Month-to-Month,Electronic Check,Fiber,Standard,70.13,328.28,29.8,5,6.3,1
+CUST1773,Female,33.0,South,72,Two-Year,Electronic Check,DSL,Premium,83.88,6012.25,30.3,1,10.0,0
+CUST1195,Male,40.0,North,34,Two-Year,Bank Transfer,,Standard,75.37,2766.22,62.9,2,8.6,0
+CUST1102,Male,48.0,East,27,Two-Year,Credit Card,Fiber,Premium,105.77,3124.61,41.4,3,6.0,0
+CUST1004,Male,44.0,North,37,Two-Year,UPI,DSL,Basic,42.01,1627.96,31.1,1,10.0,0
+CUST1619,Male,24.0,East,14,Month-to-Month,Bank Transfer,Fiber,Basic,62.57,836.73,42.5,4,8.1,0
+CUST2002,Male,49.0,West,8,One-Year,UPI,DSL,Standard,57.23,461.85,17.6,5,8.1,0
+CUST1052,Female,18.0,North,41,One-Year,Electronic Check,DSL,Premium,95.03,4111.95,46.8,1,8.6,0
+CUST1263,Male,36.0,South,21,Month-to-Month,Credit Card,Fiber,Standard,77.0,1630.62,38.1,3,5.1,1
+CUST2097,Female,44.0,North,41,One-Year,Credit Card,DSL,Basic,47.62,2010.2,12.0,3,8.4,0
+CUST1443,Male,36.0,North,29,Month-to-Month,UPI,Fiber,Premium,95.39,3005.67,,2,9.0,0
+CUST1983,Male,42.0,North,72,One-Year,UPI,DSL,Standard,71.7,4806.12,,1,9.0,0
+CUST1782,Male,52.0,West,24,Month-to-Month,Electronic Check,Fiber,Standard,87.71,2307.9,83.8,1,8.3,0
+CUST1855,Male,30.0,South,72,Two-Year,Credit Card,,Basic,61.17,4432.85,45.6,4,7.6,0
+CUST1691,Female,,East,13,Two-Year,Electronic Check,DSL,Basic,28.76,380.08,56.5,2,9.1,0
+CUST1304,Female,35.0,West,24,One-Year,Credit Card,DSL,Standard,53.1,1185.29,30.1,2,7.2,0
+CUST1341,Female,40.0,North,72,Two-Year,Electronic Check,DSL,Premium,89.05,5938.93,46.2,0,10.0,0
+CUST1876,Male,68.0,West,10,Month-to-Month,Credit Card,Fiber,Basic,47.8,456.53,66.4,0,9.9,0
+CUST1313,Male,63.0,East,12,Month-to-Month,Credit Card,No Internet,Basic,33.93,397.28,64.4,0,8.4,1
+CUST1149,Male,37.0,North,15,Month-to-Month,Electronic Check,DSL,Standard,63.63,940.07,51.8,2,8.9,0
+CUST1124,Male,48.0,South,49,Two-Year,UPI,DSL,Basic,43.88,2065.04,16.8,0,10.0,0
+CUST2067,Female,57.0,South,25,Month-to-Month,Credit Card,DSL,Premium,85.36,2211.37,37.2,3,7.3,1
+CUST1574,Female,,East,9,Month-to-Month,Bank Transfer,DSL,Standard,55.68,472.79,42.8,0,9.6,0
+CUST1697,Female,24.0,North,41,Month-to-Month,Bank Transfer,Fiber,Basic,62.39,2581.17,35.8,4,9.4,0
+CUST1664,Male,48.0,East,6,Month-to-Month,Bank Transfer,Fiber,Basic,45.29,270.93,36.0,7,6.2,0
+CUST1050,Male,42.0,North,2,One-Year,Electronic Check,Fiber,Standard,85.75,168.48,49.2,3,6.8,1
+CUST1726,Male,26.0,South,21,One-Year,Electronic Check,Fiber,Basic,45.97,895.8,33.4,1,8.8,0
+CUST1799,Female,43.0,South,72,Two-Year,Bank Transfer,DSL,Basic,45.56,3212.21,12.5,3,9.7,0
+CUST1833,Female,43.0,South,21,Month-to-Month,Credit Card,Fiber,Premium,102.83,2209.56,35.1,1,,0
+CUST1353,Female,27.0,South,10,Month-to-Month,Bank Transfer,Fiber,Standard,80.25,834.79,90.3,3,8.6,0
+CUST2157,Male,44.0,South,9,Two-Year,UPI,Fiber,Premium,103.81,,20.2,2,7.2,0
+CUST1142,Female,51.0,South,13,Month-to-Month,UPI,DSL,Basic,50.02,609.12,15.3,2,9.3,0
+CUST1470,Male,18.0,South,56,One-Year,Credit Card,No Internet,Standard,55.16,3277.75,57.0,2,10.0,0
+CUST1653,Male,38.0,East,10,One-Year,Credit Card,Fiber,Standard,72.65,735.95,79.1,3,8.3,0
+CUST1399,Male,48.0,North,6,One-Year,Electronic Check,DSL,Premium,90.02,554.6,75.6,5,6.8,1
+CUST1908,Male,20.0,South,64,One-Year,Bank Transfer,Fiber,Premium,98.81,6212.74,47.4,3,8.8,0
+CUST1926,Male,58.0,South,10,Month-to-Month,Bank Transfer,DSL,Basic,41.32,422.65,21.6,1,9.7,0
+CUST1320,Female,42.0,South,21,Month-to-Month,Electronic Check,DSL,Basic,21.59,423.96,24.9,1,7.0,1
+CUST1019,Female,18.0,North,30,Two-Year,UPI,DSL,Premium,92.12,2791.95,63.5,5,8.3,1
+CUST1684,Female,26.0,South,20,One-Year,UPI,No Internet,Basic,27.42,540.94,20.0,2,7.1,1
+CUST1035,Male,60.0,North,15,Two-Year,,DSL,Premium,76.23,1231.57,36.3,1,,0
+CUST1824,Female,46.0,South,13,Month-to-Month,Bank Transfer,Fiber,Standard,64.52,826.73,49.5,3,8.6,0
+CUST1505,Female,49.0,West,23,One-Year,Electronic Check,DSL,Basic,34.7,834.34,13.6,0,10.0,0
+CUST1827,Male,49.0,South,4,Month-to-Month,Electronic Check,DSL,Premium,75.68,287.41,42.0,4,6.4,1
+CUST2075,Male,41.0,North,5,Month-to-Month,Electronic Check,DSL,Standard,59.22,261.04,49.6,4,7.5,1
+CUST1407,Female,32.0,North,34,One-Year,Electronic Check,No Internet,Basic,27.52,980.1,12.4,1,10.0,0
+CUST1817,Female,41.0,North,32,Month-to-Month,Electronic Check,DSL,Basic,49.89,1518.26,19.2,2,8.0,0
+CUST1537,Male,46.0,North,3,Month-to-Month,UPI,DSL,Standard,67.41,209.53,37.3,4,5.9,1
+CUST1758,Male,39.0,West,10,Two-Year,Credit Card,DSL,Standard,56.49,558.75,35.7,2,10.0,0
+CUST2073,Female,38.0,West,10,Month-to-Month,Electronic Check,Fiber,Standard,77.5,752.38,26.2,3,5.8,1
+CUST1903,Male,41.0,West,72,Two-Year,Credit Card,DSL,Basic,48.52,3335.18,30.6,1,10.0,0
+CUST1038,Male,32.0,North,3,Month-to-Month,UPI,Fiber,Basic,60.74,179.29,57.5,3,7.2,1
+CUST1175,Male,,North,1,One-Year,Credit Card,Fiber,Premium,96.62,96.01,71.4,6,5.3,0
+CUST1245,Female,65.0,East,27,Two-Year,Credit Card,No Internet,Basic,24.35,649.79,19.6,1,10.0,0
+CUST1810,Male,48.0,North,5,Month-to-Month,Credit Card,Fiber,Basic,68.55,341.88,51.4,8,3.1,1
+CUST2089,Male,34.0,South,16,Month-to-Month,Bank Transfer,Fiber,Basic,64.59,1065.34,23.8,2,8.1,1
+CUST1973,Female,68.0,North,8,Month-to-Month,Credit Card,DSL,Premium,83.13,667.69,12.0,3,6.2,1
+CUST1784,Female,46.0,East,41,Month-to-Month,UPI,DSL,Standard,64.86,2887.36,32.8,0,10.0,0
+CUST2190,Male,28.0,East,48,Two-Year,Credit Card,Fiber,Standard,80.32,4019.93,28.1,3,8.3,0
+CUST1489,Female,45.0,South,5,Month-to-Month,Electronic Check,DSL,Premium,84.67,442.43,26.3,2,9.0,0
+CUST1154,Male,40.0,West,8,Month-to-Month,Credit Card,Fiber,Standard,90.04,705.13,54.0,2,9.3,0
+CUST1638,Female,53.0,East,7,Month-to-Month,Credit Card,No Internet,Premium,78.32,571.32,3.8,2,6.0,1
+CUST1662,Male,21.0,West,24,Month-to-Month,Electronic Check,Fiber,Basic,56.78,1437.02,67.6,4,9.5,0
+CUST1853,Female,36.0,West,46,Month-to-Month,Bank Transfer,Fiber,Standard,73.47,3163.25,84.5,1,8.5,0
+CUST1287,Male,30.0,South,60,One-Year,UPI,Fiber,Premium,101.11,6109.68,82.0,2,10.0,0
+CUST1625,Male,39.0,North,23,Month-to-Month,UPI,DSL,Premium,95.79,2192.93,27.9,1,5.7,1
+CUST2131,Female,46.0,South,12,Month-to-Month,UPI,Fiber,Standard,84.39,953.07,72.1,3,8.6,1
+CUST1685,Male,34.0,South,18,Month-to-Month,Electronic Check,No Internet,Basic,30.91,553.16,28.2,3,9.1,1
+CUST2019,Male,51.0,South,19,Two-Year,Credit Card,Fiber,Standard,76.49,1449.69,48.7,1,8.4,0
+CUST1937,Male,18.0,West,62,Two-Year,UPI,DSL,Standard,60.12,3727.94,18.4,2,10.0,0
+CUST1569,Female,43.0,West,8,Month-to-Month,Credit Card,Fiber,Premium,110.82,878.48,32.0,0,,0
+CUST2148,Male,32.0,North,6,Month-to-Month,UPI,Fiber,Standard,80.6,474.59,41.0,7,2.5,1
+CUST1734,Male,44.0,East,54,One-Year,UPI,DSL,Basic,37.48,1998.29,15.7,1,10.0,0
+CUST1792,Male,18.0,South,29,One-Year,Credit Card,DSL,Standard,60.12,1666.13,13.8,1,9.6,0
+CUST1017,Male,43.0,East,25,One-Year,Electronic Check,DSL,Premium,103.5,2602.67,23.8,2,7.2,0
+CUST1127,Male,35.0,East,49,Two-Year,Electronic Check,DSL,Basic,46.44,2347.69,39.8,2,7.8,0
+CUST1322,Male,18.0,West,21,Month-to-Month,Credit Card,Fiber,Premium,94.45,1925.57,72.3,3,7.3,0
+CUST1255,Female,31.0,North,50,Two-Year,Electronic Check,Fiber,Premium,111.66,5971.17,52.2,5,7.2,0
+CUST2029,Male,44.0,East,23,Two-Year,Electronic Check,DSL,Premium,87.84,1868.73,19.9,1,9.9,0
+CUST2187,Female,41.0,North,19,Month-to-Month,Bank Transfer,Fiber,Basic,50.47,1013.95,43.4,1,6.1,0
+CUST1190,Female,36.0,West,42,One-Year,Electronic Check,Fiber,Premium,100.65,4417.82,45.3,1,8.9,0
+CUST1115,Female,78.0,East,72,Two-Year,UPI,DSL,Standard,58.95,3928.66,14.3,0,10.0,0
+CUST2178,Male,19.0,North,31,One-Year,Electronic Check,Fiber,Premium,95.89,2984.86,49.0,3,6.1,0
+CUST1899,Female,30.0,North,6,Month-to-Month,Bank Transfer,Fiber,Premium,114.41,673.93,79.2,9,1.6,1
+CUST1606,Female,37.0,North,59,One-Year,Electronic Check,Fiber,Premium,108.78,6176.82,55.5,2,10.0,0
+CUST1180,Female,42.0,South,19,Month-to-Month,Electronic Check,No Internet,Basic,27.68,532.09,21.6,0,10.0,0
+CUST1301,Male,58.0,West,53,One-Year,UPI,Fiber,Standard,92.92,4954.35,59.8,7,6.8,0
+CUST1496,Male,21.0,North,17,Two-Year,Bank Transfer,No Internet,Standard,39.35,677.22,19.5,1,,0
+CUST1348,Female,49.0,South,2,Month-to-Month,,No Internet,Standard,50.97,104.44,22.4,6,6.3,1
+CUST2040,Male,48.0,South,2,Month-to-Month,Electronic Check,Fiber,Standard,78.45,154.52,61.9,5,4.3,1
+CUST1994,Female,56.0,East,61,One-Year,Electronic Check,DSL,Premium,98.14,5779.98,56.0,0,9.8,0
+CUST1744,Male,22.0,West,42,Two-Year,Bank Transfer,DSL,Basic,30.38,1305.21,18.3,1,9.0,1
+CUST2120,Female,54.0,North,5,One-Year,Credit Card,DSL,Basic,46.79,226.14,42.0,3,8.0,0
+CUST1966,Female,36.0,West,54,One-Year,Bank Transfer,Fiber,Standard,73.47,3850.59,30.9,7,8.2,0
+CUST1517,Female,28.0,East,72,Two-Year,UPI,No Internet,Standard,46.02,3377.52,46.0,2,9.5,0
+CUST1372,Male,41.0,East,72,Two-Year,Credit Card,DSL,Premium,84.0,5748.82,,2,8.4,0
+CUST1045,Female,40.0,North,8,One-Year,Bank Transfer,Fiber,Basic,58.83,496.18,31.9,2,9.0,0
+CUST1476,Male,18.0,East,12,Month-to-Month,Bank Transfer,DSL,Premium,93.64,1121.51,14.1,2,7.5,1
+CUST1157,Female,39.0,South,9,Month-to-Month,,Fiber,Basic,47.5,445.4,35.2,5,6.0,1
+CUST2068,Male,78.0,East,46,Month-to-Month,UPI,Fiber,Standard,80.95,3591.87,69.4,3,9.9,0
+CUST1171,Female,32.0,West,10,One-Year,UPI,Fiber,Standard,73.1,741.77,62.7,1,7.3,0
+CUST1016,Female,24.0,South,48,Month-to-Month,Credit Card,Fiber,Basic,57.74,2908.15,37.6,1,10.0,0
+CUST1511,Female,46.0,South,61,Month-to-Month,UPI,Fiber,Basic,61.52,3701.65,47.2,3,9.6,0
+CUST1048,Female,53.0,West,40,One-Year,Electronic Check,Fiber,Basic,45.54,1828.21,69.7,4,7.7,0
+CUST1191,Male,29.0,West,28,Two-Year,Electronic Check,DSL,Basic,32.38,,18.0,4,5.3,0
+CUST1546,Male,48.0,East,18,Month-to-Month,Electronic Check,DSL,Basic,43.86,836.24,43.9,1,9.7,0
+CUST1515,Male,24.0,West,5,Month-to-Month,Electronic Check,Fiber,Standard,77.92,393.2,47.8,5,,1
+CUST2010,Female,44.0,West,26,One-Year,UPI,DSL,Basic,31.28,801.35,33.5,2,8.4,0
+CUST1949,Male,38.0,North,1,Month-to-Month,Electronic Check,No Internet,Premium,105.06,102.21,27.5,2,5.8,1
+CUST1828,Female,57.0,South,6,One-Year,Electronic Check,Fiber,Standard,69.3,412.34,53.0,4,6.5,1
+CUST2141,Female,69.0,North,37,One-Year,Electronic Check,DSL,Standard,51.48,1872.03,19.1,2,9.5,0
+CUST1480,Male,40.0,East,33,Month-to-Month,Credit Card,No Internet,Standard,42.7,1383.54,48.6,2,10.0,0
+CUST2133,Female,38.0,North,13,Month-to-Month,,Fiber,Standard,72.97,838.8,43.8,5,5.2,1
+CUST1283,Male,45.0,North,47,One-Year,Credit Card,Fiber,Basic,47.1,2272.31,35.5,2,,0
+CUST2034,Male,57.0,East,37,Month-to-Month,Bank Transfer,DSL,Basic,39.04,1361.52,51.5,0,10.0,1
+CUST1797,Male,41.0,South,8,Month-to-Month,Bank Transfer,Fiber,Basic,53.11,420.14,67.0,1,7.1,0
+CUST1950,Female,50.0,East,65,Month-to-Month,Electronic Check,Fiber,Standard,85.36,5422.81,93.5,2,9.9,0
+CUST1225,Female,53.0,South,12,Month-to-Month,Credit Card,DSL,Basic,32.23,408.5,19.8,2,6.5,1
+CUST1026,Male,54.0,South,20,Month-to-Month,UPI,Fiber,Basic,48.47,1019.44,26.3,1,8.8,0
+CUST1282,Male,35.0,East,67,Month-to-Month,Bank Transfer,Fiber,Basic,51.7,3533.96,73.2,3,9.8,0
+CUST2170,Male,34.0,South,72,One-Year,Bank Transfer,Fiber,Standard,94.87,6898.39,35.3,2,10.0,0
+CUST1437,Male,46.0,West,19,Month-to-Month,UPI,Fiber,Basic,55.28,1001.85,91.9,2,8.7,0
+CUST2172,Male,33.0,South,15,Month-to-Month,Electronic Check,DSL,Standard,65.26,913.83,26.7,2,,0
+CUST1364,Female,44.0,West,11,Month-to-Month,Credit Card,DSL,Premium,91.52,992.58,28.6,1,,0
+CUST1229,Male,28.0,South,27,Month-to-Month,Bank Transfer,Fiber,Standard,63.91,1910.55,41.5,1,,0
+CUST1037,Male,55.0,South,30,One-Year,Electronic Check,Fiber,Basic,57.07,1590.42,77.4,2,9.0,0
+CUST1669,Male,26.0,West,8,Month-to-Month,,Fiber,Premium,110.63,891.5,98.4,1,7.7,1
+CUST1749,Female,38.0,West,36,Month-to-Month,UPI,Fiber,Standard,73.99,2842.16,82.5,1,9.7,0
+CUST2185,Female,29.0,East,41,Two-Year,UPI,Fiber,Standard,68.49,2643.64,59.1,0,8.2,0
+CUST1374,Male,53.0,North,1,One-Year,Electronic Check,Fiber,Basic,64.88,62.32,42.6,7,3.3,1
+CUST1469,Male,25.0,West,8,Month-to-Month,,DSL,Premium,98.83,796.15,5.6,3,8.4,1
+CUST1882,Female,51.0,East,13,Month-to-Month,Bank Transfer,Fiber,Basic,59.53,840.49,82.7,1,10.0,0
+CUST2186,Male,57.0,West,1,Month-to-Month,Electronic Check,,Basic,62.77,59.68,38.5,2,7.0,1
+CUST1687,Female,34.0,North,24,Month-to-Month,Electronic Check,Fiber,Premium,100.43,2441.12,60.4,0,10.0,1
+CUST1032,Male,18.0,North,13,One-Year,Bank Transfer,DSL,Basic,31.06,437.04,36.1,2,7.5,0
+CUST2022,Female,46.0,South,72,One-Year,Bank Transfer,DSL,Basic,37.24,2395.98,28.6,1,10.0,0
+CUST2043,Female,47.0,North,29,Month-to-Month,Electronic Check,DSL,Basic,40.44,1175.8,46.6,3,8.3,0
+CUST1194,Male,36.0,West,5,Month-to-Month,Credit Card,DSL,Basic,22.98,102.93,59.4,5,9.5,1
+CUST2110,Male,28.0,West,18,Two-Year,Bank Transfer,No Internet,Premium,75.95,1336.52,31.7,3,7.4,0
+CUST2118,Male,55.0,South,6,One-Year,Credit Card,DSL,Basic,38.75,230.79,26.2,2,,1
+CUST1962,Male,43.0,South,42,One-Year,Electronic Check,DSL,Standard,55.12,2236.95,23.7,1,10.0,0
+CUST1503,Male,35.0,East,37,Two-Year,Electronic Check,Fiber,Premium,115.87,3982.72,57.1,4,4.5,0
+CUST1915,Female,49.0,West,12,Month-to-Month,Electronic Check,Fiber,Premium,94.78,,,1,8.3,0
+CUST1988,Male,19.0,North,14,Month-to-Month,Bank Transfer,DSL,Basic,31.9,483.36,52.5,1,9.0,0
+CUST2188,Male,39.0,East,8,One-Year,Electronic Check,No Internet,Basic,28.34,222.08,1.0,1,10.0,0
+CUST2092,Male,35.0,East,39,Two-Year,Bank Transfer,DSL,Premium,85.85,3343.27,34.2,2,7.1,1
+CUST1800,Female,62.0,West,7,One-Year,Bank Transfer,DSL,Standard,66.3,458.0,41.9,4,7.3,0
+CUST1579,Male,52.0,South,72,Two-Year,UPI,DSL,Premium,84.91,6168.11,29.2,1,10.0,0
+CUST1160,Male,44.0,East,35,One-Year,UPI,Fiber,Standard,77.19,2659.8,27.9,3,6.1,0
+CUST1680,Male,37.0,South,43,Month-to-Month,Electronic Check,Fiber,Standard,64.39,2547.65,56.8,3,10.0,0
+CUST2135,Male,41.0,East,63,One-Year,Bank Transfer,DSL,Standard,55.04,3673.67,24.8,0,9.8,0
+CUST1162,Male,49.0,East,13,One-Year,Electronic Check,DSL,Basic,36.38,443.6,36.3,3,6.0,1
+CUST1821,Female,53.0,North,18,Two-Year,Electronic Check,Fiber,Premium,112.11,2034.45,32.7,4,6.5,0
+CUST1705,Female,,South,71,One-Year,Electronic Check,Fiber,Standard,79.24,5542.33,76.0,3,6.8,0
+CUST2180,Female,30.0,West,29,One-Year,,DSL,Basic,36.69,,32.0,1,9.4,0
+CUST1877,Male,34.0,North,59,One-Year,Electronic Check,DSL,Basic,44.03,2745.85,23.5,1,8.1,0
+CUST1895,Female,49.0,South,72,Two-Year,Credit Card,Fiber,Basic,67.18,4459.34,38.6,0,10.0,0
+CUST1913,Female,34.0,East,10,One-Year,Electronic Check,DSL,Standard,66.34,652.54,48.9,3,9.7,0
+CUST2083,Female,50.0,East,24,One-Year,Bank Transfer,No Internet,Basic,19.1,482.63,21.3,1,9.2,0
+CUST1152,Male,59.0,South,35,One-Year,Credit Card,Fiber,Basic,54.5,1982.81,59.1,4,8.7,0
+CUST1990,Female,25.0,North,5,Month-to-Month,Electronic Check,DSL,Basic,35.31,160.04,76.3,2,5.4,0
+CUST2014,Male,23.0,West,7,Month-to-Month,Electronic Check,DSL,Basic,34.69,247.73,20.4,1,10.0,0
+CUST1509,Male,22.0,South,14,One-Year,Credit Card,Fiber,Standard,73.75,961.03,53.7,4,7.6,0
+CUST1111,Male,36.0,West,16,Month-to-Month,Bank Transfer,DSL,Basic,26.9,441.88,61.0,0,7.7,0
+CUST1226,Male,34.0,North,1,One-Year,Electronic Check,Fiber,Standard,82.04,75.7,53.0,6,4.8,1
+CUST1997,Male,60.0,South,18,Month-to-Month,Electronic Check,No Internet,Basic,15.0,270.04,30.5,3,10.0,0
+CUST1851,Male,41.0,North,21,One-Year,UPI,Fiber,Basic,56.62,1182.93,79.5,3,,0
+CUST1103,Female,36.0,North,62,Two-Year,Bank Transfer,DSL,Premium,94.64,5839.18,21.9,0,6.2,0
+CUST1421,Male,40.0,South,72,One-Year,Electronic Check,DSL,Standard,62.56,4509.82,61.9,2,10.0,0
+CUST1419,Female,48.0,North,72,Two-Year,Bank Transfer,Fiber,Standard,80.01,5653.94,36.2,4,9.7,0
+CUST1967,Male,43.0,South,5,One-Year,Electronic Check,DSL,Basic,32.43,172.9,24.0,4,5.6,1
+CUST1624,Female,59.0,East,9,Month-to-Month,Electronic Check,No Internet,Basic,25.06,231.75,4.1,1,9.9,1
+CUST1586,Male,41.0,South,6,Month-to-Month,Electronic Check,Fiber,Basic,57.18,324.91,36.3,5,8.2,1
+CUST2065,Female,47.0,North,16,One-Year,Credit Card,Fiber,Premium,92.95,,34.6,3,7.5,0
+CUST1919,Female,51.0,North,1,Month-to-Month,Electronic Check,Fiber,Standard,72.73,72.9,47.5,6,5.6,1
+CUST1672,Female,53.0,West,44,Two-Year,UPI,No Internet,Standard,44.56,1875.86,1.0,3,9.7,0
+CUST1119,Female,29.0,West,30,Month-to-Month,Credit Card,Fiber,Basic,54.53,1648.65,42.7,5,6.8,1
+CUST1053,Female,49.0,East,72,One-Year,Electronic Check,Fiber,Basic,64.62,,66.9,1,9.7,0
+CUST1151,Female,61.0,West,12,Month-to-Month,Credit Card,DSL,Standard,50.98,577.32,16.4,2,7.2,0
+CUST1403,Male,47.0,West,4,One-Year,Electronic Check,Fiber,Standard,78.67,301.21,81.2,5,5.0,0
+CUST2194,Female,27.0,East,8,Month-to-Month,Electronic Check,DSL,Premium,87.7,711.23,48.8,2,7.0,1
+CUST1207,Female,37.0,North,23,Month-to-Month,Bank Transfer,DSL,Basic,42.15,993.46,86.1,0,10.0,0
+CUST2139,Female,26.0,North,15,Month-to-Month,Bank Transfer,DSL,Basic,48.92,694.02,41.9,0,9.4,0
+CUST1658,Female,48.0,North,4,Month-to-Month,UPI,Fiber,Premium,94.37,346.13,41.9,8,4.0,1
+CUST2101,Male,59.0,East,35,One-Year,Credit Card,Fiber,Basic,59.55,2056.27,86.7,2,8.1,0
+CUST1232,Female,37.0,North,5,Two-Year,Credit Card,Fiber,Premium,102.49,497.54,41.4,6,4.1,1
+CUST1008,Male,63.0,North,13,Month-to-Month,Electronic Check,Fiber,Premium,104.45,1376.3,51.0,0,6.3,0
+CUST1159,Female,35.0,North,18,Month-to-Month,Electronic Check,DSL,Premium,97.89,1638.91,16.9,0,9.3,0
+CUST1036,Male,41.0,North,10,One-Year,UPI,Fiber,Premium,104.71,966.51,34.2,5,8.3,1
+CUST1452,Female,49.0,North,72,Two-Year,Credit Card,Fiber,Standard,76.55,5841.93,78.9,1,8.1,0
+CUST1651,Female,41.0,West,11,Month-to-Month,Electronic Check,DSL,Premium,78.99,839.67,23.5,3,8.4,0
+CUST1253,Male,69.0,West,22,One-Year,Credit Card,Fiber,Basic,69.53,1493.91,49.6,2,7.6,0
+CUST1303,Female,50.0,South,8,Two-Year,Credit Card,DSL,Basic,42.43,352.56,22.6,3,10.0,0
+CUST1896,Male,71.0,North,8,One-Year,Credit Card,Fiber,Premium,104.68,919.09,73.8,1,7.4,0
+CUST2053,Male,40.0,East,30,Month-to-Month,Electronic Check,Fiber,Standard,90.0,2700.24,54.6,1,7.0,0
+CUST1880,Male,34.0,South,30,One-Year,Credit Card,DSL,Basic,39.93,1085.55,52.7,0,,0
+CUST1571,Female,40.0,West,12,One-Year,Bank Transfer,No Internet,Standard,53.46,618.94,30.6,3,7.9,0
+CUST1623,Male,18.0,East,8,One-Year,Electronic Check,Fiber,Standard,85.1,772.18,59.7,2,7.4,0
+CUST1345,Female,59.0,South,8,One-Year,UPI,DSL,Standard,75.87,625.66,76.7,2,10.0,0
+CUST2035,Female,61.0,West,46,One-Year,Electronic Check,Fiber,Standard,76.65,,36.3,2,8.3,0
+CUST2030,Female,48.0,South,58,One-Year,Electronic Check,DSL,Basic,38.36,2225.4,50.5,2,10.0,0
+CUST1262,Male,48.0,North,1,Month-to-Month,Bank Transfer,Fiber,Basic,48.4,45.23,23.4,7,2.8,1
+CUST1610,Female,35.0,North,11,Month-to-Month,Bank Transfer,Fiber,Standard,74.28,781.42,31.2,2,7.4,0
+CUST1297,Female,18.0,East,1,Month-to-Month,Credit Card,DSL,Standard,59.44,61.18,32.7,5,5.8,1
+CUST1989,Female,43.0,West,28,Month-to-Month,UPI,DSL,Basic,26.93,774.85,41.2,1,9.6,0
+CUST1414,Male,42.0,West,22,Month-to-Month,Credit Card,Fiber,Standard,86.08,1811.04,45.1,2,10.0,0
+CUST1150,Female,35.0,West,70,One-Year,Electronic Check,Fiber,Premium,109.34,7598.17,86.6,7,6.8,0
+CUST1945,Male,30.0,West,2,One-Year,Electronic Check,Fiber,Standard,81.47,151.41,53.0,7,5.0,1
+CUST1472,Male,61.0,East,21,Month-to-Month,Credit Card,DSL,Premium,84.16,1875.2,9.5,4,7.4,0
+CUST1952,Male,39.0,West,25,Month-to-Month,Electronic Check,DSL,Basic,43.67,1117.47,74.2,0,10.0,0
+CUST1987,Male,46.0,East,30,Two-Year,UPI,DSL,Basic,38.42,1137.01,23.0,0,10.0,0
+CUST1778,Female,54.0,East,3,Month-to-Month,UPI,DSL,Basic,40.84,123.7,29.9,4,7.5,0
+CUST1640,Female,30.0,North,9,Month-to-Month,Bank Transfer,Fiber,Basic,52.21,480.22,83.5,4,6.5,1
+CUST2195,Male,52.0,West,24,Two-Year,Electronic Check,Fiber,Premium,103.24,2774.58,32.7,3,6.1,0
+CUST2134,Female,18.0,South,29,One-Year,UPI,Fiber,Basic,48.08,1286.9,45.1,4,8.0,0
+CUST1550,Male,47.0,East,19,Month-to-Month,Electronic Check,No Internet,Premium,54.82,945.86,13.0,0,10.0,0
+CUST1639,Female,33.0,East,16,One-Year,Bank Transfer,Fiber,Basic,63.35,987.85,43.7,1,6.9,1
+CUST1935,Male,50.0,South,1,Month-to-Month,Electronic Check,No Internet,Standard,50.43,52.25,1.6,4,9.7,0
+CUST1928,Female,62.0,North,7,Month-to-Month,Electronic Check,No Internet,Basic,27.48,195.04,20.1,2,8.0,0
+CUST1488,Female,25.0,East,8,Month-to-Month,Electronic Check,Fiber,Basic,57.27,463.92,62.0,1,9.1,0
+CUST2085,Female,18.0,North,25,One-Year,Credit Card,Fiber,Standard,59.02,,48.3,2,7.9,0
+CUST1146,Male,64.0,South,72,Two-Year,Electronic Check,DSL,Standard,60.2,4400.61,46.0,2,10.0,0
+CUST1402,Female,22.0,East,28,Month-to-Month,,Fiber,Basic,60.7,1699.45,42.3,6,8.1,0
+CUST1954,Female,33.0,East,4,Month-to-Month,Electronic Check,Fiber,Standard,83.97,343.19,35.7,4,5.0,1
+CUST2147,Female,32.0,West,12,Two-Year,Bank Transfer,DSL,Standard,73.24,886.66,14.4,0,7.4,0
+CUST1659,Male,39.0,North,19,Month-to-Month,Electronic Check,Fiber,Standard,84.93,1611.7,45.7,2,8.5,0
+CUST1463,Male,47.0,North,44,Month-to-Month,Bank Transfer,No Internet,Basic,26.13,1242.01,8.3,0,9.4,0
+CUST1186,Male,42.0,East,7,Month-to-Month,UPI,DSL,Standard,70.41,484.24,22.9,4,6.1,1
+CUST1608,Female,18.0,South,27,Month-to-Month,Credit Card,Fiber,Basic,54.44,1486.49,24.8,3,8.6,0
+CUST1143,Female,50.0,East,2,Month-to-Month,Credit Card,No Internet,Standard,37.59,75.56,15.9,1,8.2,1
+CUST1751,Male,40.0,North,41,One-Year,Electronic Check,Fiber,Basic,44.3,1892.99,36.8,4,6.6,1
+CUST1981,Female,44.0,West,13,Two-Year,Bank Transfer,No Internet,Premium,75.36,974.06,64.0,1,7.7,0
+CUST1197,Female,49.0,West,11,Month-to-Month,Bank Transfer,DSL,Basic,45.53,532.03,72.1,3,8.0,0
+CUST1883,Male,48.0,North,1,Month-to-Month,Electronic Check,DSL,Premium,84.44,87.35,41.9,4,5.7,1
+CUST1279,Female,34.0,South,2,Month-to-Month,Credit Card,DSL,Basic,46.76,94.87,21.2,9,3.3,1
+CUST1293,Male,25.0,West,67,Two-Year,Credit Card,Fiber,Premium,93.73,6121.12,37.6,1,10.0,0
+CUST2093,Male,48.0,South,2,One-Year,UPI,DSL,Standard,62.43,117.39,23.4,3,,0
+CUST1400,Male,44.0,West,30,Two-Year,Bank Transfer,Fiber,Basic,46.59,1356.02,98.4,1,7.9,0
+CUST1122,Male,35.0,North,6,Month-to-Month,UPI,Fiber,Standard,79.53,508.33,69.1,6,5.1,1
+CUST1202,Male,42.0,West,34,Month-to-Month,Electronic Check,DSL,Standard,73.4,2535.16,66.1,1,10.0,0
+CUST1835,Female,38.0,West,39,Month-to-Month,Credit Card,DSL,Basic,38.34,1452.07,48.5,2,7.3,0
+CUST1246,Female,47.0,West,16,One-Year,Bank Transfer,Fiber,Premium,100.23,1662.27,57.1,1,7.7,0
+CUST2144,Male,26.0,East,17,Month-to-Month,Electronic Check,Fiber,Premium,100.77,1718.12,36.1,1,9.5,1
+CUST1384,Male,33.0,East,33,Month-to-Month,Credit Card,Fiber,Basic,59.99,1967.48,56.5,4,8.4,0
+CUST1854,Male,48.0,South,17,Month-to-Month,Credit Card,Fiber,Basic,59.69,985.28,35.1,3,6.0,1
+CUST1219,Male,46.0,West,6,Two-Year,UPI,Fiber,Standard,79.46,470.4,74.1,6,5.0,1
+CUST1641,Female,34.0,East,35,Two-Year,UPI,DSL,Premium,87.26,2888.76,61.7,0,9.8,0
+CUST1001,Male,42.0,East,72,One-Year,Electronic Check,Fiber,Basic,62.78,4762.9,35.1,0,10.0,0
+CUST1112,Male,74.0,East,32,Month-to-Month,UPI,Fiber,Basic,53.56,1749.38,31.1,5,5.2,0
+CUST1698,Female,43.0,North,6,Month-to-Month,Credit Card,Fiber,Standard,75.54,464.64,52.2,8,6.2,1
+CUST1951,Male,62.0,North,44,Month-to-Month,Bank Transfer,Fiber,Premium,111.26,4702.78,56.4,2,6.8,1
+CUST2083,Female,50.0,East,24,One-Year,Bank Transfer,No Internet,Basic,19.1,482.63,21.3,1,9.2,0
+CUST1441,Male,43.0,North,13,Month-to-Month,Bank Transfer,Fiber,Premium,109.23,1443.81,33.3,0,9.7,1
+CUST1663,Male,44.0,South,16,Two-Year,UPI,DSL,Premium,71.51,1177.36,86.6,2,6.9,0
+CUST2100,Male,31.0,West,18,Month-to-Month,UPI,DSL,Basic,50.99,920.48,20.2,1,7.9,0
+CUST1317,Female,25.0,West,38,Two-Year,Credit Card,DSL,Standard,63.35,,63.0,1,9.4,0
+CUST1648,Female,57.0,South,72,Two-Year,Electronic Check,DSL,Premium,100.01,6815.14,22.4,0,8.0,0
+CUST1709,Male,29.0,West,14,Two-Year,Bank Transfer,DSL,Basic,38.52,524.11,23.1,1,,0
+CUST1972,Male,34.0,South,2,Two-Year,Electronic Check,Fiber,Basic,66.99,130.16,40.5,5,3.8,1
+CUST1627,Male,18.0,South,21,Two-Year,Electronic Check,DSL,Standard,51.7,1012.77,32.0,0,9.8,0
+CUST1632,Male,34.0,South,6,Month-to-Month,Bank Transfer,DSL,Premium,85.26,512.1,38.7,1,8.6,1
+CUST2176,Male,42.0,West,15,Two-Year,Credit Card,DSL,Basic,33.09,497.34,,0,10.0,0
+CUST2111,Male,49.0,North,23,One-Year,Electronic Check,Fiber,Standard,77.97,1755.74,78.6,3,8.3,0
+CUST1795,Male,47.0,East,24,Month-to-Month,Credit Card,DSL,Standard,71.74,1684.46,28.1,1,,0
+CUST1645,Female,53.0,East,16,Two-Year,Electronic Check,Fiber,Basic,46.18,730.6,64.4,3,8.7,1
+CUST2012,Male,20.0,West,4,Month-to-Month,Bank Transfer,DSL,Basic,37.12,149.39,36.4,5,6.0,1
+CUST1556,Male,41.0,North,23,Month-to-Month,UPI,DSL,Premium,89.66,1907.29,,1,7.5,1
+CUST1681,Male,42.0,East,17,Month-to-Month,Credit Card,Fiber,Premium,95.29,1749.86,31.8,2,8.2,1
+CUST1577,Female,44.0,South,35,One-Year,UPI,DSL,Standard,75.38,2829.39,68.7,2,9.0,1
+CUST1524,Male,38.0,South,17,Month-to-Month,UPI,Fiber,Basic,43.27,741.1,26.4,2,8.1,0
+CUST2059,Female,57.0,South,21,One-Year,Electronic Check,Fiber,Standard,75.26,,63.9,3,,0
+CUST1540,Female,36.0,North,72,Two-Year,Credit Card,Fiber,Premium,101.78,7253.2,38.8,2,9.3,0
+CUST1748,Female,34.0,North,72,Two-Year,Credit Card,DSL,Standard,69.83,5220.9,44.2,0,10.0,0
+CUST2114,Female,50.0,South,21,Two-Year,Credit Card,Fiber,Premium,110.29,2223.47,48.5,1,,0
+CUST1484,Male,31.0,North,14,One-Year,Credit Card,,Premium,104.37,1501.93,48.7,3,3.6,1
+CUST1095,Female,36.0,South,9,One-Year,Credit Card,DSL,Basic,33.15,272.23,10.4,1,9.1,0
+CUST2020,Female,18.0,South,50,Two-Year,Electronic Check,DSL,Premium,82.77,3981.22,60.3,2,8.0,0
+CUST1563,Female,50.0,North,10,One-Year,Credit Card,No Internet,Premium,67.92,699.85,19.2,2,9.2,0
+CUST1742,Female,41.0,South,21,Two-Year,Credit Card,DSL,Basic,47.26,1052.12,19.4,0,8.6,0
+CUST1863,Female,33.0,North,16,Month-to-Month,UPI,Fiber,Basic,48.26,781.57,38.9,3,7.6,0
+CUST1891,Female,27.0,West,19,One-Year,UPI,Fiber,Basic,50.08,880.81,61.7,6,5.8,0
+CUST2038,Male,29.0,South,4,Month-to-Month,Electronic Check,DSL,Premium,84.07,363.72,,5,4.1,1
+CUST1206,Male,,West,26,One-Year,Bank Transfer,DSL,Basic,29.63,763.44,37.6,1,7.7,1
+CUST1392,Female,24.0,West,72,One-Year,Electronic Check,Fiber,Basic,59.48,4516.4,54.5,4,10.0,0
+CUST1794,Male,28.0,South,59,One-Year,Credit Card,DSL,Standard,62.69,3770.04,29.7,1,10.0,0
+CUST1870,Female,33.0,West,52,Two-Year,UPI,DSL,Standard,65.16,3176.37,24.7,0,10.0,0
+CUST1397,Male,44.0,North,23,Month-to-Month,Credit Card,Fiber,Basic,45.31,1049.71,33.1,3,7.3,1
+CUST1766,Male,36.0,East,1,Month-to-Month,Credit Card,DSL,Premium,78.39,79.47,31.8,4,10.0,1
+CUST2151,Female,47.0,West,4,One-Year,Credit Card,Fiber,Standard,65.08,280.04,71.1,4,7.2,0
+CUST2028,Female,52.0,North,26,Two-Year,Electronic Check,DSL,Standard,70.52,1828.96,,1,,0
+CUST1642,Male,55.0,North,28,One-Year,Credit Card,DSL,Basic,39.1,1137.5,104.4,0,10.0,0
+CUST1612,Female,40.0,East,13,One-Year,Credit Card,Fiber,Standard,80.72,1039.88,39.6,1,8.3,0
+CUST1960,Female,30.0,South,17,Month-to-Month,UPI,Fiber,Basic,54.71,998.81,30.2,1,8.6,0
+CUST1725,Male,24.0,North,11,Month-to-Month,Credit Card,No Internet,Basic,24.36,264.0,7.7,4,5.4,1
+CUST1683,Male,64.0,East,62,One-Year,Electronic Check,Fiber,Premium,116.39,7502.57,50.2,1,7.4,0
+CUST1098,Male,43.0,East,26,Two-Year,Electronic Check,No Internet,Standard,39.82,1045.52,37.9,1,10.0,0
+CUST1804,Male,39.0,North,18,Two-Year,Credit Card,DSL,Premium,81.21,1415.31,,1,9.7,0
+CUST1406,Male,55.0,West,39,Month-to-Month,Credit Card,Fiber,Premium,103.97,3968.64,62.9,2,7.7,0
+CUST1502,Female,60.0,South,43,Month-to-Month,Credit Card,DSL,Standard,66.01,2951.36,,2,8.3,0
+CUST2071,Female,24.0,East,13,Month-to-Month,Electronic Check,Fiber,Basic,43.8,562.37,32.6,3,8.2,0
+CUST2056,Female,73.0,West,72,Two-Year,UPI,DSL,Premium,94.68,6957.81,67.6,5,8.5,0
+CUST1929,Female,41.0,North,13,Month-to-Month,Credit Card,Fiber,Premium,109.31,1285.16,63.2,3,4.5,1
+CUST1779,Female,,North,22,Month-to-Month,Electronic Check,DSL,Standard,74.05,1600.24,79.5,0,10.0,0
+CUST1200,Female,39.0,South,5,Month-to-Month,Electronic Check,Fiber,Standard,73.79,358.55,51.9,4,4.6,1
+CUST1134,Female,44.0,West,62,Two-Year,Electronic Check,DSL,Basic,41.15,2558.5,84.2,2,8.7,0
+CUST2051,Male,69.0,West,26,One-Year,UPI,DSL,Basic,44.52,1142.0,15.9,1,10.0,1
+CUST1040,Male,38.0,West,72,Two-Year,Electronic Check,DSL,Standard,60.39,4304.99,20.4,2,7.6,0
+CUST2017,Female,35.0,West,27,One-Year,Credit Card,Fiber,Basic,55.41,1462.94,60.1,0,10.0,0
+CUST1230,Male,40.0,West,17,Month-to-Month,Credit Card,Fiber,Premium,100.33,,56.9,0,8.6,0
+CUST1378,Male,61.0,West,3,Month-to-Month,Credit Card,DSL,Basic,47.93,,11.9,3,8.4,1
+CUST1288,Female,62.0,West,8,Month-to-Month,UPI,No Internet,Basic,26.27,210.61,19.2,3,9.1,1
+CUST1418,Male,35.0,West,16,Month-to-Month,Electronic Check,Fiber,Premium,93.82,1642.81,39.9,2,5.6,0
+CUST1391,Male,18.0,North,9,Month-to-Month,Credit Card,DSL,Standard,67.07,633.58,17.0,3,5.7,0
+CUST1592,Male,32.0,North,29,Month-to-Month,Credit Card,No Internet,Standard,33.1,1000.92,18.9,1,9.7,0
+CUST2086,Female,30.0,West,19,One-Year,Electronic Check,Fiber,Standard,74.79,1255.33,59.0,2,6.4,0
+CUST1647,Female,44.0,East,1,One-Year,Electronic Check,Fiber,Basic,57.81,54.17,45.0,12,5.6,1
+CUST1520,Female,33.0,North,22,Two-Year,,Fiber,Premium,103.1,2289.06,52.6,1,7.4,0
+CUST1064,Female,33.0,East,28,Month-to-Month,Electronic Check,DSL,Basic,47.91,1334.98,34.5,0,8.1,0
+CUST1014,Male,30.0,North,6,Month-to-Month,Bank Transfer,Fiber,Basic,59.82,346.61,30.9,9,3.0,1
+CUST2064,Male,49.0,East,41,One-Year,Credit Card,DSL,Basic,43.67,1931.41,44.8,5,7.2,0
+CUST1492,Female,39.0,North,23,One-Year,UPI,DSL,Premium,87.07,2021.28,52.5,0,8.6,0
+CUST1379,Female,22.0,West,12,Month-to-Month,Bank Transfer,DSL,Standard,71.2,809.04,43.0,2,5.4,0
+CUST1187,Male,37.0,South,10,Month-to-Month,Electronic Check,Fiber,Basic,48.05,548.33,46.1,2,7.8,1
+CUST1763,Male,38.0,North,14,One-Year,UPI,Fiber,Standard,74.72,1087.87,42.0,1,9.4,0
+CUST1216,Male,37.0,South,6,Month-to-Month,Credit Card,DSL,Standard,63.83,400.83,30.1,3,5.4,1
+CUST1791,Male,33.0,East,2,Month-to-Month,Bank Transfer,DSL,Basic,42.34,92.59,44.5,2,10.0,0
+CUST2076,Female,64.0,East,72,Two-Year,Electronic Check,DSL,Basic,35.43,2501.78,24.0,3,9.0,0
+CUST1878,Female,52.0,South,4,Month-to-Month,UPI,DSL,Standard,65.93,276.87,19.5,6,6.0,1
+CUST1337,Female,34.0,East,11,One-Year,Bank Transfer,Fiber,Basic,54.37,561.68,29.0,5,6.8,1
+CUST1719,Female,18.0,West,1,Month-to-Month,Credit Card,DSL,Standard,49.21,47.59,64.2,5,8.2,0
+CUST1295,Female,29.0,East,15,Month-to-Month,Bank Transfer,DSL,Premium,77.77,1120.44,49.9,2,7.6,1
+CUST2016,Female,62.0,North,17,One-Year,Electronic Check,Fiber,Basic,54.3,956.4,59.9,6,7.9,0
+CUST1455,Male,,South,39,Two-Year,UPI,DSL,Standard,64.61,2303.55,17.1,1,7.1,0
+CUST1815,Female,45.0,South,72,One-Year,Bank Transfer,Fiber,Basic,52.3,3722.3,77.4,2,7.7,0
+CUST1269,Male,38.0,North,24,Month-to-Month,Credit Card,DSL,Basic,25.94,687.23,9.8,0,,0
+CUST1995,Male,61.0,West,11,Two-Year,UPI,DSL,Premium,95.89,1051.99,8.0,1,7.3,0
+CUST1201,Female,31.0,North,61,One-Year,Electronic Check,DSL,Standard,61.36,3850.03,39.7,2,10.0,0
+CUST1161,Female,44.0,South,72,One-Year,Electronic Check,Fiber,Standard,73.11,5279.77,43.1,1,8.6,0
+CUST1729,Female,18.0,South,72,Two-Year,,DSL,Standard,54.67,3882.96,70.7,1,10.0,0
+CUST1401,Female,44.0,North,14,Month-to-Month,Credit Card,Fiber,Basic,56.19,840.31,80.0,4,5.5,1
+CUST1702,Male,62.0,West,3,Two-Year,UPI,Fiber,Premium,94.39,282.84,48.9,9,3.4,1
+CUST2129,Female,31.0,South,4,Month-to-Month,Credit Card,Fiber,Basic,53.37,196.33,41.7,3,5.9,0
+CUST1565,Female,26.0,North,20,One-Year,Electronic Check,No Internet,Standard,51.15,1018.0,39.7,1,8.3,0
+CUST2021,Female,34.0,South,49,Month-to-Month,UPI,DSL,Premium,84.89,3940.77,57.1,5,7.4,0
+CUST2025,Male,55.0,North,24,One-Year,Bank Transfer,Fiber,Standard,74.07,1719.33,49.5,2,8.7,0
+CUST2104,Male,58.0,South,72,One-Year,Electronic Check,DSL,Basic,27.25,1897.21,35.7,1,10.0,0
+CUST1205,Male,29.0,South,12,Month-to-Month,Electronic Check,Fiber,Standard,69.1,826.84,50.7,1,4.4,1
+CUST1034,Male,34.0,North,43,One-Year,Bank Transfer,Fiber,Premium,102.25,4588.87,57.4,2,7.4,0
+CUST1775,Female,60.0,North,6,Month-to-Month,Electronic Check,Fiber,Basic,61.0,364.6,52.1,5,,1
+CUST1508,Male,33.0,West,72,Two-Year,UPI,Fiber,Standard,67.16,4728.55,36.3,2,7.3,0
+CUST2189,Female,49.0,North,10,Month-to-Month,Bank Transfer,DSL,Standard,68.89,,18.3,0,9.4,1
+CUST1091,Female,22.0,East,12,Month-to-Month,Bank Transfer,Fiber,Basic,32.16,372.68,45.3,1,10.0,0
+CUST1897,Male,41.0,South,16,Month-to-Month,Credit Card,No Internet,Basic,18.34,282.72,12.2,1,10.0,0
+CUST1564,Female,28.0,North,26,Month-to-Month,Bank Transfer,No Internet,Standard,49.42,1292.1,,1,9.3,0
+CUST1776,Female,30.0,South,11,Two-Year,Bank Transfer,No Internet,Basic,15.0,178.39,27.8,0,10.0,0
+CUST1241,Female,48.0,North,22,One-Year,Bank Transfer,,Basic,64.89,1380.6,64.0,2,,0
+CUST1013,Female,48.0,South,33,One-Year,UPI,No Internet,Standard,47.17,1574.79,64.9,0,10.0,0
+CUST1315,Male,35.0,North,11,Month-to-Month,Electronic Check,No Internet,Standard,60.17,703.97,14.8,3,5.5,1
+CUST1600,Male,45.0,East,64,Two-Year,Electronic Check,DSL,Basic,37.9,2254.71,26.2,3,8.6,0
+CUST1387,Female,52.0,East,23,One-Year,Credit Card,DSL,Basic,36.25,817.06,29.7,2,10.0,0
+CUST1166,Female,34.0,North,15,Month-to-Month,Credit Card,Fiber,Standard,75.19,1045.94,62.1,3,8.4,1
+CUST1840,Male,36.0,South,48,Two-Year,Electronic Check,Fiber,Standard,83.38,4272.6,41.7,1,10.0,0
+CUST1020,Female,67.0,North,13,Month-to-Month,Bank Transfer,DSL,Premium,91.68,1090.94,89.7,1,9.3,0
+CUST1646,Male,69.0,South,23,Month-to-Month,UPI,DSL,Basic,47.18,1135.68,22.3,2,9.0,0
+CUST2154,Female,39.0,South,8,Month-to-Month,UPI,Fiber,Premium,94.72,781.31,57.5,1,8.0,0
+CUST1831,Female,36.0,South,15,Month-to-Month,UPI,Fiber,Standard,88.85,1506.14,43.5,1,9.5,1
+CUST1562,Female,35.0,North,4,Month-to-Month,UPI,Fiber,Basic,46.93,172.49,93.5,4,8.8,0
+CUST2175,Female,28.0,North,54,Month-to-Month,Electronic Check,Fiber,Basic,53.53,2828.77,39.5,2,8.9,1
+CUST1686,Male,29.0,North,9,Month-to-Month,UPI,No Internet,Premium,73.64,654.77,18.5,0,8.5,0
+CUST1957,Female,27.0,North,9,Month-to-Month,Bank Transfer,DSL,Standard,54.09,451.3,12.4,0,9.4,0
+CUST1189,Male,43.0,North,25,Month-to-Month,Bank Transfer,Fiber,Standard,72.89,1774.16,24.3,3,7.2,0
+CUST1975,Female,47.0,East,6,Month-to-Month,Electronic Check,Fiber,Basic,54.74,334.86,41.3,4,9.1,1
+CUST1699,Male,48.0,North,11,Month-to-Month,Bank Transfer,Fiber,Standard,78.95,,44.8,2,6.1,0
+CUST1510,Male,61.0,West,12,One-Year,Electronic Check,Fiber,Premium,97.64,1102.21,38.9,4,6.9,0
+CUST2082,Female,19.0,South,4,Two-Year,,DSL,Premium,85.53,324.81,15.2,3,5.7,1
+CUST1474,Male,44.0,West,28,Month-to-Month,Electronic Check,Fiber,Basic,49.23,1321.73,24.9,0,10.0,0
+CUST1856,Female,51.0,West,5,Month-to-Month,Electronic Check,No Internet,Basic,25.56,122.96,1.0,4,6.3,1
+CUST1747,Male,57.0,West,26,One-Year,UPI,DSL,Standard,57.37,1650.04,41.5,0,7.0,0
+CUST1252,Male,33.0,West,38,Two-Year,Credit Card,DSL,Standard,63.98,,,3,8.0,0
+CUST1021,Male,35.0,North,20,Month-to-Month,Electronic Check,Fiber,Premium,95.0,1937.22,,3,7.3,1
+CUST1459,Female,43.0,North,33,Month-to-Month,UPI,Fiber,Standard,87.59,2943.56,45.4,0,9.2,0
+CUST2184,Male,42.0,North,72,Two-Year,UPI,DSL,Basic,38.06,2725.32,53.9,0,10.0,0
+CUST1276,Male,42.0,South,14,Month-to-Month,Electronic Check,DSL,Basic,39.11,500.63,23.9,3,9.5,1
+CUST1955,Female,51.0,West,13,Month-to-Month,Bank Transfer,DSL,Standard,55.29,730.97,29.3,2,6.6,0
+CUST1385,Female,18.0,West,27,One-Year,Electronic Check,,Premium,86.8,2103.31,46.7,2,7.6,0
+CUST1805,Male,56.0,West,8,Month-to-Month,Bank Transfer,DSL,Standard,69.18,544.44,64.2,2,9.1,0
+CUST1343,Female,35.0,North,72,One-Year,Bank Transfer,No Internet,Standard,42.25,2998.67,,0,10.0,0
+CUST1769,Female,39.0,South,7,One-Year,Credit Card,DSL,Basic,40.59,286.58,63.3,5,7.2,0
+CUST1130,Male,43.0,West,34,One-Year,UPI,DSL,Basic,44.49,1530.21,77.2,2,8.8,0
+CUST1871,Male,,South,15,One-Year,Electronic Check,DSL,Standard,72.17,1044.14,42.1,4,8.0,0
+CUST2123,Male,40.0,North,11,Month-to-Month,Bank Transfer,Fiber,Premium,97.08,985.58,30.6,6,6.7,1
+CUST1087,Male,28.0,South,72,Two-Year,UPI,DSL,Basic,39.14,2778.73,46.6,0,10.0,0
+CUST1330,Female,42.0,South,7,Month-to-Month,Credit Card,Fiber,Standard,72.15,527.49,46.6,5,5.2,0
+CUST1466,Female,39.0,West,11,Month-to-Month,Electronic Check,Fiber,Basic,58.36,602.64,60.0,2,6.9,1
+CUST1121,Female,38.0,South,72,One-Year,Credit Card,Fiber,Basic,54.81,3674.36,38.8,2,6.2,0
+CUST2044,Male,27.0,South,24,Two-Year,Electronic Check,DSL,Premium,76.75,1884.64,5.7,3,8.1,0
+CUST2095,Male,23.0,North,72,Two-Year,Bank Transfer,DSL,Basic,57.31,4093.47,29.0,0,10.0,0
+CUST2130,Female,55.0,East,20,Month-to-Month,Electronic Check,No Internet,Standard,47.46,944.29,13.2,1,10.0,0
+CUST1860,Female,61.0,West,7,Month-to-Month,Credit Card,Fiber,Basic,54.53,401.25,32.3,3,,0
+CUST2126,Male,49.0,North,8,Month-to-Month,UPI,DSL,Basic,39.03,325.6,,1,9.2,0
